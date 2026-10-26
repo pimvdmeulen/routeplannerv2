@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>OG Routeplanner</title>
+<meta name="description" content="Plan je rit langs Bio-CNG-stations van OG Clean Fuels, met tankstops op basis van je actieradius en de besparing ten opzichte van diesel.">
+<link rel="icon" type="image/png" href="assets/spark.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.7.1/maplibre-gl.min.css">
+<link rel="stylesheet" href="css/app.css">
+<!--bundle:fonts-->
+</head>
+<body>
+<div class="app" id="app">
+
+  <header class="top">
+    <div class="chip brand">
+      <div class="logo"><img src="assets/logo.svg" alt="OG Clean Fuels"></div>
+      <div class="brand-txt"><b data-i18n="appName">Routeplanner</b><small>OG Clean Fuels</small></div>
+    </div>
+    <nav class="nav" aria-label="Weergaven">
+      <button type="button" data-view="plan" aria-selected="true" data-i18n="navPlan">Route plannen</button>
+      <button type="button" data-view="stations" aria-selected="false" data-i18n="navStations">Stations</button>
+    </nav>
+    <div class="tools">
+      <span class="tag t-or" id="internBadge" hidden data-i18n="internBadge">Intern</span>
+      <span class="tag t-amber" id="demoBadge" hidden data-i18n-title="demoTip" data-i18n="demoBadge">Demo-routering</span>
+      <label class="chip sel"><span class="sr" data-i18n="language">Taal</span>
+        <select id="lang" aria-label="Taal">
+          <option value="nl">NL</option><option value="en">EN</option><option value="de">DE</option>
+          <option value="fr">FR</option><option value="it">IT</option><option value="sv">SV</option>
+        </select>
+      </label>
+      <div class="chip seg-ic" role="group">
+        <button type="button" class="ib" data-theme-set="light" data-i18n-title="themeLight" aria-label="Licht">
+          <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+        </button>
+        <button type="button" class="ib" data-theme-set="dark" data-i18n-title="themeDark" aria-label="Donker">
+          <svg viewBox="0 0 24 24"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ======================= ROUTE PLANNEN ======================= -->
+  <section class="layout" id="view-plan" data-panel="plan">
+    <div class="side">
+
+      <form class="card form" id="planForm" autocomplete="off" novalidate>
+        <div class="card-h">
+          <div><h1 data-i18n="planTitle">Plan je rit</h1><p class="sub" data-i18n="planSub">Tankstops langs OG-stations, berekend op je actieradius.</p></div>
+        </div>
+
+        <ol class="pts" id="pts" aria-label="Route"></ol>
+        <div class="pts-actions">
+          <button type="button" class="lnk" id="addVia"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg><span data-i18n="addVia">Tussenstop toevoegen</span></button>
+          <button type="button" class="lnk" id="swap"><svg viewBox="0 0 24 24"><path d="M7 4v16M7 20l-3-3M7 20l3-3M17 20V4M17 4l-3 3M17 4l3 3"/></svg><span data-i18n="swap">Omdraaien</span></button>
+        </div>
+
+        <details class="fold" id="vehFold" open>
+          <summary><span data-i18n="vehicleTitle">Voertuig &amp; tank</span><span class="tag t-green" id="rangeChip"></span></summary>
+          <div class="fold-b">
+            <div class="seg wide" id="vehSeg" role="radiogroup" aria-label="Voertuig"></div>
+            <div class="grid-f">
+              <label class="fld"><span data-i18n="tankCap">Tankinhoud</span><div class="in-u"><input type="number" id="cap" min="5" max="600" step="1" inputmode="decimal"><i>kg</i></div></label>
+              <label class="fld"><span data-i18n="consumption">Verbruik</span><div class="in-u"><input type="number" id="cons" min="1" max="80" step="0.1" inputmode="decimal"><i>kg/100 km</i></div></label>
+              <label class="fld"><span data-i18n="dieselCons">Diesel ter vergelijking</span><div class="in-u"><input type="number" id="dcons" min="1" max="80" step="0.1" inputmode="decimal"><i>L/100 km</i></div></label>
+              <label class="fld hgv-only"><span data-i18n="weightHeight">Gewicht · hoogte</span><div class="in-2"><div class="in-u"><input type="number" id="wt" min="1" max="60" step="0.5" inputmode="decimal"><i>t</i></div><div class="in-u"><input type="number" id="ht" min="1.5" max="4.5" step="0.05" inputmode="decimal"><i>m</i></div></div></label>
+            </div>
+            <label class="rng"><span><span data-i18n="startFill">Tank bij vertrek</span><output id="spOut"></output></span><input type="range" id="sp" min="10" max="100" step="5"></label>
+            <label class="rng"><span><span data-i18n="reserve">Minimale reserve</span><output id="rsOut"></output></span><input type="range" id="rs" min="5" max="40" step="5"></label>
+            <label class="rng"><span><span data-i18n="corridor">Max. afstand van de route</span><output id="corOut"></output></span><input type="range" id="cor" min="2" max="40" step="1"></label>
+          </div>
+        </details>
+
+        <details class="fold" id="optFold">
+          <summary><span data-i18n="optionsTitle">Vertrek &amp; opties</span></summary>
+          <div class="fold-b">
+            <div class="grid-f">
+              <label class="fld"><span data-i18n="departure">Vertrek</span><input type="datetime-local" id="dep"></label>
+              <label class="fld"><span data-i18n="stopMinutes">Duur per tankstop</span><div class="in-u"><input type="number" id="ref" min="0" max="90" step="5" inputmode="numeric"><i>min</i></div></label>
+            </div>
+            <label class="chk"><input type="checkbox" id="oth"><span data-i18n="useOther">Andere CNG-stations gebruiken als er geen OG-station bereikbaar is</span></label>
+            <label class="chk ors-only"><input type="checkbox" id="tol"><span data-i18n="avoidTolls">Tolwegen vermijden</span></label>
+            <label class="chk ors-only"><input type="checkbox" id="fer"><span data-i18n="avoidFerries">Veerboten vermijden</span></label>
+          </div>
+        </details>
+
+        <details class="fold intern-only" id="intFold" hidden>
+          <summary><span data-i18n="internTitle">Prijsafspraak &amp; klant</span><span class="tag t-or" data-i18n="internBadge">Intern</span></summary>
+          <div class="fold-b">
+            <div class="seg wide" id="priceSeg" role="radiogroup" aria-label="Prijs">
+              <button type="button" data-v="std" aria-pressed="true" data-i18n="priceStd">Standaard</button>
+              <button type="button" data-v="fix" aria-pressed="false" data-i18n="priceFix">Vaste prijs</button>
+              <button type="button" data-v="pct" aria-pressed="false" data-i18n="pricePct">Korting</button>
+            </div>
+            <div class="grid-f">
+              <label class="fld" id="fixFld" hidden><span data-i18n="priceFixLbl">Prijs Bio-CNG</span><div class="in-u"><input type="number" id="fix" min="0.5" max="5" step="0.001" inputmode="decimal"><i>€/kg</i></div></label>
+              <label class="fld" id="pctFld" hidden><span data-i18n="pricePctLbl">Korting op standaardprijs</span><div class="in-u"><input type="number" id="pct" min="0" max="50" step="0.5" inputmode="decimal"><i>%</i></div></label>
+              <label class="fld"><span data-i18n="customer">Klant</span><input type="text" id="cust" maxlength="80"></label>
+              <label class="fld"><span data-i18n="routeName">Routenaam</span><input type="text" id="rname" maxlength="80"></label>
+            </div>
+          </div>
+        </details>
+
+        <div class="form-foot">
+          <button type="submit" class="btn primary" id="go"><svg viewBox="0 0 24 24"><path d="M3 12h13M12 6l6 6-6 6"/></svg><span data-i18n="calculate">Route berekenen</span></button>
+          <button type="button" class="btn ghost" id="reset" data-i18n="reset">Wissen</button>
+        </div>
+        <p class="form-msg" id="formMsg" role="alert" hidden></p>
+      </form>
+
+      <div id="results" class="results" aria-live="polite"></div>
+    </div>
+
+    <div class="card mapcard" id="mapCard">
+      <div id="map" role="region" aria-label="Kaart"></div>
+      <div class="map-legend" id="legend"></div>
+      <div class="map-busy" id="busy" hidden><div class="spin"></div><span id="busyTxt"></span></div>
+    </div>
+  </section>
+
+  <!-- ======================= STATIONS ======================= -->
+  <section class="layout" id="view-stations" data-panel="stations" hidden>
+    <div class="side">
+      <div class="card">
+        <div class="card-h"><div><h1 data-i18n="stationsTitle">OG-stations</h1><p class="sub" id="stSub"></p></div></div>
+        <label class="search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input type="search" id="stQ" data-i18n-ph="searchStations" placeholder="Zoek op plaats of merk"></label>
+        <div class="chips" id="stCountries"></div>
+        <label class="chk"><input type="checkbox" id="stOther"><span data-i18n="showOther">Ook andere CNG-stations tonen</span></label>
+      </div>
+      <div class="card list-card"><ul class="st-list" id="stList"></ul><button type="button" class="btn ghost more" id="stMore" hidden data-i18n="showMore">Meer tonen</button></div>
+    </div>
+    <!-- de kaart (#mapCard) wordt bij het wisselen van weergave hierheen verplaatst -->
+  </section>
+
+  <footer class="foot" id="foot"></footer>
+</div>
+
+<section id="print" class="print" aria-hidden="true"></section>
+<div class="toast" id="toast" role="status" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.7.1/maplibre-gl.min.js"></script>
+<!--bundle:config-->
+<script src="js/config.js"></script>
+<script src="js/stations.js"></script>
+<script src="js/fuel.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/geo.js"></script>
+<script src="js/services.js"></script>
+<script src="js/planner.js"></script>
+<script src="js/exporters.js"></script>
+<script src="js/mapview.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

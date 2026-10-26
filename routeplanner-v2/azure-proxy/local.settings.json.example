@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "ORS_API_KEY": "",
+    "ALLOWED_ORIGINS": "http://localhost:8765"
+  },
+  "Host": { "CORS": "*" }
+}

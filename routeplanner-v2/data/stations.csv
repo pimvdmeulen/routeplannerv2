@@ -1,0 +1,1900 @@
+type;country;brand;city;bio;unattended;card_only;depot;motorway;lat;lon
+og;NL;OG Clean Fuels;Almelo;1;1;0;0;0;52.352273;6.656573
+og;NL;Shell;Almere;1;0;0;0;0;52.406789;5.322229
+og;NL;TAMOIL;Amersfoort;1;1;0;0;0;52.168234;5.366542
+og;NL;OG Clean Fuels;Amersfoort;1;1;0;0;0;52.168042;5.432304
+og;NL;Makro;Amsterdam;1;0;0;0;0;52.324954;4.925004
+og;NL;Shell;Amsterdam;1;0;0;0;0;52.344105;4.842047
+og;NL;BP;Amsterdam;1;1;0;0;0;52.415359;4.874565
+og;NL;OG Clean Fuels;Amsterdam;1;1;0;0;0;52.39996;4.795264
+og;NL;OG Clean Fuels;Amsterdam;1;1;0;0;0;52.394434;4.851491
+og;NL;Shell;Amsterdam;1;0;0;0;0;52.354618;4.769484
+og;NL;TotalEnergies;Augustinusga;1;1;0;0;0;53.223764;6.175033
+og;NL;Gulf;Baarn;1;0;0;0;0;52.173667;5.24636
+og;NL;BP;Barendrecht;1;0;0;0;0;51.844831;4.519428
+og;NL;TAMOIL;Beesd;1;0;0;0;0;51.898633;5.188285
+og;NL;Fieten Olie;Beilen;1;1;0;0;0;52.859075;6.495129
+og;NL;OG Clean Fuels;Burgum;1;1;0;0;0;53.205037;5.984536
+og;NL;Avia;Capelle aan den IJssel;1;1;0;0;0;51.937013;4.592922
+og;NL;OG Clean Fuels;Delfzijl;1;1;0;0;0;53.321455;6.882426
+og;NL;Shell;Den Bosch;1;0;0;0;0;51.685994;5.281339
+og;NL;BP;Den Haag;1;1;0;0;0;52.07174;4.335824
+og;NL;TotalEnergies;Den Haag;1;0;0;0;0;52.040941;4.244279
+og;NL;Tango;Deventer;1;0;0;0;0;52.249584;6.207222
+og;NL;OG Clean Fuels;Deventer;1;1;0;0;0;52.248439;6.181199
+og;NL;OG Clean Fuels;Dokkum;1;1;0;0;0;53.320804;6.019134
+og;NL;Van den Belt;Drachten;1;1;0;0;0;53.117055;6.073447
+og;NL;TAMOIL;Eindhoven;1;0;0;0;0;51.424271;5.506018
+og;NL;Shell;Emmeloord;1;0;0;0;0;52.698176;5.747978
+og;NL;Shell;Enschede;1;0;0;0;0;52.220703;6.870358
+og;NL;DB;Gouda;1;1;0;0;0;52.011277;4.693377
+og;NL;Fieten Olie;Groningen;1;0;0;0;0;53.220582;6.602814
+og;NL;Avia;Groningen;1;1;0;0;0;53.215244;6.613511
+og;NL;Argos;Groningen;1;1;0;0;0;53.204318;6.612642
+og;NL;Shell;Hardenberg;1;0;0;0;0;52.57459;6.602568
+og;NL;OK;Harderwijk;1;0;0;0;0;52.361443;5.651509
+og;NL;BP;Harmelen;1;0;0;0;0;52.09607;4.945655
+og;NL;TotalEnergies;Heemskerk;1;0;0;0;0;52.513642;4.652879
+og;NL;OG Clean Fuels;Heerenveen;1;1;0;0;0;52.976052;5.937511
+og;NL;Elan;Helmond;1;0;0;0;0;51.466612;5.688338
+og;NL;Shell;Hengelo;1;0;0;0;0;52.290259;6.768244
+og;NL;BP;Hoofddorp;1;0;0;0;1;52.261493;4.68724
+og;NL;Fieten Olie;Hoogeveen;1;1;0;0;0;52.728889;6.521828
+og;NL;OG Clean Fuels;Hoogkerk;1;1;0;0;0;53.214386;6.492455
+og;NL;OG Clean Fuels;Joure;1;1;0;0;0;52.966524;5.815859
+og;NL;Esso;Kampen;1;1;0;0;0;52.542936;5.919186
+og;NL;Argos;Kolham;1;0;0;0;0;53.176219;6.733337
+og;NL;Avia;Leek;1;1;0;0;0;53.187931;6.372576
+og;NL;Van den Belt;Leeuwarden;1;1;0;0;0;53.196304;5.844352
+og;NL;firezone;Leeuwarden;1;1;0;0;0;53.187406;5.755853
+og;NL;TAMOIL;Nieuw Heeten;1;0;0;0;0;52.317137;6.350114
+og;NL;Shell;Nieuwendijk;1;0;0;0;0;51.77126;4.926719
+og;NL;Fieten Olie;Nijverdal;1;0;0;0;0;52.35916;6.512449
+og;NL;TAMOIL;Ommen;1;1;0;0;0;52.511044;6.419701
+og;NL;Avia;Oostzaan;1;0;0;0;0;52.432218;4.875834
+og;NL;Avia;Peize;1;0;0;0;0;53.167164;6.496736
+og;NL;OG Clean Fuels;Reduzum;1;1;0;0;0;53.1073;5.783931
+og;NL;Avia;Rozenburg;1;0;0;0;0;52.286843;4.727935
+og;NL;TAMOIL;Sint Annaparochie;1;1;0;0;0;53.268406;5.659423
+og;NL;BP;Sittard;1;1;0;0;0;50.985302;5.843929
+og;NL;DCB Energy;Spijkenisse;1;0;0;0;0;51.84198;4.347907
+og;NL;Fieten Olie;Staphorst;1;1;0;0;0;52.631537;6.212359
+og;NL;TAMOIL;Steenwijk;1;0;0;0;0;52.788152;6.093207
+og;NL;Avia;Tilburg;1;1;0;0;0;51.584174;5.057983
+og;NL;Avia;Tilburg;1;1;0;0;0;51.537532;5.040958
+og;NL;TAMOIL;Uithuizen;1;0;0;0;0;53.409509;6.665944
+og;NL;OG Clean Fuels;Utrecht;1;1;0;0;0;52.10532;5.06719
+og;NL;TankEasy DC Berkel;Vlaardingen;1;0;0;0;0;51.908842;4.365131
+og;NL;OG Clean Fuels;Wageningen;1;1;0;0;0;51.960387;5.64495
+og;NL;TAMOIL;Wesepe;1;0;0;0;0;52.332774;6.205457
+og;NL;TAMOIL;Windesheim;1;0;0;0;0;52.450177;6.132063
+og;NL;OG Clean Fuels;Winschoten;1;1;0;0;0;53.13488;7.05049
+og;NL;Q8;Zuidbroek;1;1;0;0;0;53.16727;6.866203
+og;NL;Supertank;Zwolle;1;1;0;0;0;52.497058;6.126811
+og;NL;Avia;‘t Goy;1;0;0;0;0;52.004804;5.21631
+og;DE;Aral;Ahrensfelde;1;0;0;0;0;52.608194;13.52875
+og;DE;OG Clean Fuels;Alzenau;1;1;0;0;0;50.094006;9.049592
+og;DE;Orlen;Aue;1;0;0;0;0;50.579804;12.713364
+og;DE;Aral;Aurich;1;0;0;0;0;53.48224;7.49042
+og;DE;Parkkauf;Aurich;1;0;0;0;0;53.457333;7.497667
+og;DE;OG Clean Fuels;Bad Fallingbostel;1;1;0;0;0;52.853063;9.691328
+og;DE;Esso;Bad Freienwalde;1;0;0;0;0;52.79053;14.04639
+og;DE;Esso;Bad Mergentheim;1;0;0;0;0;49.476389;9.771556
+og;DE;Aral;Bad Salzuflen;1;0;0;0;0;52.084475;8.736217
+og;DE;Classic;Bad Wildungen;1;0;0;0;0;51.132611;9.123417
+og;DE;Avia;Bad Zwischenahn;1;0;0;0;0;53.17015;7.998636
+og;DE;Avia;Barßel;1;0;0;0;0;53.152333;7.712028
+og;DE;Brandol;Beeskow;1;0;0;0;0;52.182064;14.242636
+og;DE;Sprint;Berlin;1;1;0;0;0;52.529141;13.207393
+og;DE;OG Clean Fuels;Blankenburg;1;1;0;0;0;51.810944;10.938583
+og;DE;Esso;Borna;1;0;0;0;0;51.134306;12.507444
+og;DE;Q1;Bremen;1;0;0;0;0;53.057611;8.94875
+og;DE;OG Clean Fuels;Burg;1;1;0;0;0;52.257729;11.844004
+og;DE;Aral;Celle;1;0;0;0;0;52.609111;10.07575
+og;DE;Albers;Cloppenburg;1;0;0;0;0;52.850583;8.050917
+og;DE;Esso;Cuxhaven;1;0;0;0;0;53.86635;8.696526
+og;DE;Esso;Dessau;1;1;0;0;0;51.82499;12.30073
+og;DE;Esso;Dillingen;1;0;0;0;0;49.358778;6.718111
+og;DE;Esso;Donaueschingen;1;0;0;0;0;47.958173;8.502341
+og;DE;OIL;Drei Gleichen;1;0;0;0;0;50.873632;10.830234
+og;DE;OIL;Duisburg;1;0;0;0;0;51.35322;6.743813
+og;DE;Star;Dörpen;1;0;0;0;0;52.968417;7.348861
+og;DE;Star;Düren;1;0;0;0;0;50.793277;6.470609
+og;DE;Esso;Düsseldorf;1;0;0;0;0;51.18876;6.864625
+og;DE;OG Clean Fuels;Eberswalde;1;1;0;0;0;52.835972;13.811128
+og;DE;eni;Eichstätt;1;0;0;0;0;48.884848;11.189462
+og;DE;Esso;Ellwangen;1;0;0;0;0;48.956194;10.1825
+og;DE;Esso;Elmshorn;1;0;0;0;0;53.74818;9.694082
+og;DE;Aral;Elsfleth;1;0;0;0;0;53.235475;8.455755
+og;DE;K1;Emstek;1;0;0;0;0;52.82889;8.11742
+og;DE;Esso;Erfurt;1;0;0;0;0;50.97213;10.97484
+og;DE;Esso;Erfurt;1;0;0;0;0;50.97375;11.054583
+og;DE;Esso;Erlangen;1;0;0;0;0;49.582417;10.993833
+og;DE;Esso;Frankfurt;1;0;0;0;1;50.114512;8.61725
+og;DE;Esso;Freising;1;0;0;0;0;48.384139;11.764083
+og;DE;Esso;Friesoythe;1;0;0;0;0;53.02425;7.862861
+og;DE;Aral;Fritzlar;1;0;0;0;0;51.12063;9.27761
+og;DE;Aral;Fürstenwalde;1;0;0;0;0;52.33592;14.07347
+og;DE;Aral;Fürth;1;0;0;0;0;49.467583;11.005417
+og;DE;Avia;Ganderkesee;1;0;0;0;0;53.089194;8.528833
+og;DE;Raiffeisen;Ganderkesee;1;0;0;0;0;53.018135;8.569942
+og;DE;HEM;Garbsen;1;0;0;0;0;52.439083;9.588806
+og;DE;Autohaus Jansen;Garrel;1;1;0;0;0;52.96187;8.026265
+og;DE;bft;Gebesee;1;0;0;0;0;51.110276;10.929985
+og;DE;Star;Geldern;1;0;0;0;0;51.520194;6.310111
+og;DE;Lietmann;Gevelsberg;1;0;0;0;0;51.325114;7.352933
+og;DE;Raiffeisen;Gnarrenburg;1;0;0;0;0;53.374121;9.008448
+og;DE;Esso;Grevenbroich;1;0;0;0;0;51.092895;6.563084
+og;DE;PIN;Gundelfingen;1;0;0;0;0;48.543806;10.367556
+og;DE;Aral;Gyhum;1;0;0;0;0;53.1931;9.288736
+og;DE;Avia;Haltern;1;0;0;0;0;51.77875;7.162056
+og;DE;OIL;Hamburg;1;0;0;0;0;53.63925;10.089444
+og;DE;Aral;Hannover;1;0;0;0;0;52.323139;9.813944
+og;DE;Westfalen;Hannover;1;0;0;0;0;52.326417;9.781667
+og;DE;M1;Hannover;1;1;0;0;0;52.36544;9.690028
+og;DE;Esso;Hannover;1;0;0;0;0;52.3995;9.780917
+og;DE;Esso;Hannover;1;0;0;0;0;52.397528;9.736694
+og;DE;Esso;Hattingen;1;0;0;0;0;51.398748;7.178095
+og;DE;OG Clean Fuels;Heiligenhaus;1;1;0;0;0;51.329988;6.97832
+og;DE;Raiffeisen;Hemmoor;1;0;0;0;0;53.681111;9.179139
+og;DE;bft;Herrenberg;1;0;0;0;0;48.603166;8.870917
+og;DE;Hempelmann;Hiddenhausen;1;0;0;0;0;52.149139;8.650021
+og;DE;OIL;Hildesheim;1;0;0;0;0;52.161625;10.007915
+og;DE;OG Clean Fuels;Ingelheim;1;1;0;0;0;49.975291;8.025074
+og;DE;Aral;Itzehoe;1;0;0;0;0;53.905796;9.507996
+og;DE;Aral;Jever;1;0;0;0;0;53.56057;7.915976
+og;DE;Esso;Jülich;1;0;0;0;0;50.920081;6.353367
+og;DE;Esso;Kassel;1;0;0;0;0;51.30775;9.453196
+og;DE;Aral;Kerpen;1;0;0;0;0;50.911528;6.683472
+og;DE;Aral;Kirchheimbolanden;1;0;0;0;0;49.66834;8.019837
+og;DE;Shell;Koblenz;1;0;0;0;0;50.346889;7.506528
+og;DE;multi tanken;Leer;1;0;0;0;0;53.220329;7.474366
+og;DE;OIL;Lehrte;1;0;0;0;0;52.38042;10.006417
+og;DE;Star;Leipzig;1;0;0;0;0;51.310694;12.308833
+og;DE;Brinkschulte;Leverkusen;1;0;0;0;0;51.066226;6.924465
+og;DE;bft;Lindau;1;0;0;0;0;47.552956;9.701593
+og;DE;Felta;Lohne;1;0;0;0;0;52.664354;8.256793
+og;DE;Esso;Ludwigsburg;1;0;0;0;0;48.8898;9.160853
+og;DE;Raiffeisen;Lübz;1;0;0;0;0;53.46922;12.02325
+og;DE;Esso;Meerbusch;1;0;0;0;0;51.3034;6.671233
+og;DE;Metank;Melle;1;0;0;0;0;52.191472;8.354278
+og;DE;Esso;Meppen;1;0;0;0;0;52.705282;7.296353
+og;DE;Raiffeisen;Meschede;1;0;0;0;0;51.360472;8.286611
+og;DE;OIL;Minden;1;0;0;0;0;52.288848;8.937483
+og;DE;Freie;Mönchengladbach;1;1;0;0;0;51.178869;6.45119
+og;DE;Esso;Naumburg;1;0;0;0;0;51.144573;11.834173
+og;DE;Raiffeisen;Neermoor;1;0;0;0;0;53.31161;7.45694
+og;DE;Aral;Neuburg;1;0;0;0;0;48.72025;11.171722
+og;DE;SVG;Neumünster;1;0;0;0;0;54.088944;9.986694
+og;DE;Team;Neustadt;1;0;0;0;0;52.497869;9.456519
+og;DE;OG Clean Fuels;Neuwied;1;1;0;0;0;50.435321;7.492416
+og;DE;HEM;Nohra;1;0;0;0;0;50.96672;11.25742
+og;DE;bft;Nordenham;1;0;0;0;0;53.50733;8.494806
+og;DE;OIL;Norderstedt;1;0;0;0;0;53.701913;10.057361
+og;DE;Esso;Nürnberg;1;0;0;0;0;49.457253;11.018345
+og;DE;Esso;Nürnberg;1;1;0;0;0;49.424069;11.105994
+og;DE;HEM;Oberursel;1;0;0;0;0;50.2241;8.580541
+og;DE;Aral;Oldenburg;1;0;0;0;0;53.1435;8.19194
+og;DE;Aral;Oldenburg;1;0;0;0;0;53.129283;8.227204
+og;DE;Oktan;Oldenburg;1;0;0;0;0;53.164825;8.225235
+og;DE;T;Oldenburg;1;0;0;0;0;53.117566;8.214305
+og;DE;Hoyer;Oldenburg;1;0;0;0;0;53.15943;8.172347
+og;DE;Team;Otterndorf;1;0;0;0;0;53.806573;8.891136
+og;DE;Bunte;Papenburg;1;1;0;0;0;53.091306;7.390806
+og;DE;Hoyer;Posthausen;1;1;0;0;0;53.060236;9.164933
+og;DE;Star;Quedlinburg;1;0;0;0;0;51.771404;11.1403
+og;DE;Esso;Rastede;1;0;0;0;0;53.236686;8.20006
+og;DE;Tankpoint;Ratingen;1;0;0;0;0;51.298145;6.839632
+og;DE;Aral;Remscheid;1;0;0;0;0;51.177067;7.211746
+og;DE;Toptank;Rinteln;1;0;0;0;0;52.195556;9.086944
+og;DE;OG Clean Fuels;Rothenburg;1;1;0;0;0;49.37658;10.1993
+og;DE;Esso;Sande;1;0;0;0;0;53.484528;8.027444
+og;DE;OIL;Schenefeld;1;0;0;0;0;53.610576;9.840102
+og;DE;BMÖ;Schiffdorf;1;0;0;0;0;53.571171;8.622775
+og;DE;HEM;Schleiz;1;0;0;0;0;50.54927;11.789001
+og;DE;Aral;Schorfheide;1;0;0;0;0;52.849951;13.686019
+og;DE;Esso;Schwelm;1;0;0;0;0;51.29363;7.289787
+og;DE;Esso;Schwerin;1;0;0;0;0;53.612613;11.41758
+og;DE;Aral;Schönefeld;1;0;0;0;0;52.395114;13.533889
+og;DE;Esso;Seesen;1;0;0;0;0;51.947222;10.139361
+og;DE;Aral;Seevetal;1;0;0;0;0;53.390591;10.044605
+og;DE;OG Clean Fuels;Sigmaringen;1;1;0;0;0;48.081388;9.23844
+og;DE;Raiffeisen;Sittensen;1;0;0;0;0;53.280638;9.495867
+og;DE;Hoyer;Soltau;1;0;0;0;0;52.996762;9.921266
+og;DE;Raiffeisen;Soltau;1;0;0;0;0;52.979862;9.847354
+og;DE;Classic;Sottrum;1;0;0;0;0;53.112635;9.22681
+og;DE;OIL;Stade;1;0;0;0;0;53.593769;9.477032
+og;DE;Raiffeisen;Stadt Geestland;1;1;0;0;0;53.629423;8.816431
+og;DE;Ratio;Stuhr;1;0;0;0;0;53.027897;8.801319
+og;DE;Star;Sulingen;1;0;0;0;0;52.687037;8.783719
+og;DE;OG Clean Fuels;Syke;1;1;0;0;0;52.93144;8.82531
+og;DE;Star;Südbrookmerland;1;0;0;0;0;53.47228;7.31872
+og;DE;Westfalen;Twistringen;1;0;0;0;0;52.8044;8.647264
+og;DE;OIL;Upahl;1;0;0;0;0;53.829994;11.210598
+og;DE;Aral;Uplengen;1;0;0;0;0;53.26297;7.756261
+og;DE;Esso;Varel;1;0;0;0;0;53.391638;8.136491
+og;DE;bft;Vechta;1;0;0;0;0;52.737108;8.285123
+og;DE;Jansen;Viersen;1;1;0;0;0;51.258003;6.397814
+og;DE;Haisch Tankcenter;Villingen-Schwenningen;1;0;0;0;0;48.0456;8.53704
+og;DE;Aral;Vogelsdorf;1;0;0;0;0;52.499652;13.743842
+og;DE;Esso;Wandlitz;1;0;0;0;0;52.70465;13.44013
+og;DE;Aral;Wardenburg;1;0;0;0;0;53.056872;8.199678
+og;DE;AviaXPress;Weißenburg;1;1;0;0;0;49.019908;10.951138
+og;DE;Shell;Werlte;1;0;0;0;0;52.848621;7.665635
+og;DE;Raiffeisen;Wertheim;1;1;0;0;0;49.781667;9.475806
+og;DE;Esso;Westerstede;1;0;0;0;0;53.251945;7.932015
+og;DE;Behrends;Wiesmoor;1;0;0;0;0;53.41759;7.739631
+og;DE;Sprint;Wildau;1;1;0;0;0;52.31578;13.604139
+og;DE;Raiffeisen;Wildeshausen;1;0;0;0;0;52.90561;8.442472
+og;DE;Aral;Wittmund;1;0;0;0;0;53.57615;7.792493
+og;DE;Esso;Worms;1;0;0;0;0;49.642791;8.363372
+og;DE;Classic;Worpswede;1;1;0;0;0;53.219486;8.935207
+og;DE;Freie;Wunsiedel;1;0;0;0;0;50.033676;11.989554
+og;DE;Raiffeisen;Wurster Nordseeküste;1;0;0;0;0;53.686583;8.571806
+og;DE;Esso;Würzburg;1;0;0;0;0;49.803034;9.92115
+og;DE;Star;Zetel;1;0;0;0;0;53.386432;7.953879
+og;SE;OG Clean Fuels;Alingsås;1;1;0;0;0;57.930801;12.560001
+og;SE;OG Clean Fuels;Falköping;1;1;0;0;0;58.150745;13.557358
+og;SE;OG Clean Fuels;Färjestaden;1;1;0;0;0;56.665372;16.490253
+og;SE;OG Clean Fuels;Grums;1;1;0;0;0;59.366388;13.145299
+og;SE;OG Clean Fuels;Göteborg;1;1;0;0;0;57.65061;11.95224
+og;SE;OG Clean Fuels;Göteborg;1;1;0;0;0;57.65942;11.93295
+og;SE;OG Clean Fuels;Göteborg;1;1;0;0;0;57.788889;12.0454
+og;SE;OG Clean Fuels;Göteborg;1;1;0;0;0;57.747575;11.992471
+og;SE;OG Clean Fuels;Göteborg;1;1;0;0;0;57.72009;11.96297
+og;SE;OG Clean Fuels;Göteborg;1;1;0;0;0;57.7133;11.84243
+og;SE;OG Clean Fuels;Helsingborg;1;1;0;0;0;56.02898;12.70587
+og;SE;OG Clean Fuels;Helsingborg;1;1;0;0;0;56.065279;12.766751
+og;SE;Preem;Helsingborg;1;1;0;0;0;56.06192;12.71004
+og;SE;Preem;Höganäs;1;1;0;0;0;56.180801;12.5639
+og;SE;OG Clean Fuels;Jönköping;1;1;0;0;0;57.78512;14.23078
+og;SE;OG Clean Fuels;Jönköping;1;1;0;0;0;57.747662;14.163162
+og;SE;OG Clean Fuels;Kungsbacka;1;1;0;0;0;57.47849;12.082315
+og;SE;OG Clean Fuels;Kungsbacka;1;1;0;0;0;57.50996;12.06621
+og;SE;OG Clean Fuels;Kungälv;1;1;0;0;0;57.88082;11.9439
+og;SE;OG Clean Fuels;Landvetter;1;1;0;0;0;57.673074;12.300632
+og;SE;OG Clean Fuels;Lerum;1;1;0;0;0;57.7639;12.2594
+og;SE;OG Clean Fuels;Lidköping;1;1;0;0;0;58.492583;13.138847
+og;SE;OG Clean Fuels;Malmö;1;1;0;0;0;55.62873;13.028566
+og;SE;OG Clean Fuels;Mariestad;1;1;0;0;0;58.67841;13.820191
+og;SE;OG Clean Fuels;Munkedal;1;1;0;0;0;58.488548;11.629203
+og;SE;OG Clean Fuels;Mölndal;1;1;0;0;0;57.64175;12.00772
+og;SE;OG Clean Fuels;Nässjö;1;1;0;0;0;57.676224;14.694648
+og;SE;OG Clean Fuels;Nässjö;1;1;0;0;0;57.650639;14.739222
+og;SE;OG Clean Fuels;Partille;1;1;0;0;0;57.742783;12.127561
+og;SE;OG Clean Fuels;Simrishamn;1;1;0;0;0;55.545217;14.335263
+og;SE;OG Clean Fuels;Skara;1;1;0;0;0;58.39008;13.45906
+og;SE;OG Clean Fuels;Skövde;1;1;0;0;0;58.39289;13.87718
+og;SE;OG Clean Fuels;Stenungsund;1;1;0;0;0;58.023234;11.840188
+og;SE;OG Clean Fuels;Sävsjö;1;1;0;0;0;57.383421;14.658687
+og;SE;OG Clean Fuels;Tomelilla;1;1;0;0;0;55.560092;13.912334
+og;SE;OG Clean Fuels;Uddevalla;1;1;0;0;0;58.35423;11.91448
+og;SE;OG Clean Fuels;Ulricehamn;1;1;0;0;0;57.78855;13.40731
+og;SE;OG Clean Fuels;Varberg;1;1;0;0;0;57.1224;12.28136
+og;SE;OG Clean Fuels;Vetlanda;1;1;0;0;0;57.413693;15.083613
+og;SE;OG Clean Fuels;Vårgårda;1;1;0;0;0;58.040512;12.801716
+og;FR;OG Clean Fuels;Annecy;0;1;0;0;0;45.888005;6.115608
+og;FR;OG Clean Fuels;Arles;0;1;0;0;0;43.709368;4.636395
+og;FR;OG Clean Fuels;Bouc-Bel-Air;0;1;0;0;0;43.42048;5.382994
+og;FR;OG Clean Fuels;Chambéry;0;1;0;0;0;45.588733;5.889166
+og;FR;OG Clean Fuels;Dourges;0;0;0;0;0;50.452315;2.977264
+og;FR;OG Clean Fuels;Fragnes-la-Loyère;1;1;0;0;0;46.824963;4.857338
+og;FR;OG Clean Fuels;Grans;0;1;0;0;0;43.610132;5.006832
+og;FR;OG Clean Fuels;Manosque;0;1;0;0;0;43.801157;5.818096
+og;FR;OG Clean Fuels;Montoir-de-Bretagne;1;0;0;0;0;47.300619;-2.176143
+og;FR;OG Clean Fuels;Narbonne;1;1;0;0;0;43.152594;2.982142
+og;FR;OG Clean Fuels;Plan-d’Orgon;0;1;0;0;0;43.822666;5.014018
+og;FR;OG Clean Fuels;Port-Saint-Louis-du-Rhône;1;1;0;0;0;43.420658;4.814146
+og;FR;OG Clean Fuels;Puget-sur-Argens;0;1;0;0;0;43.448206;6.69898
+og;FR;OG Clean Fuels;Rouvignies;1;1;0;0;0;50.33167;3.447541
+og;FR;OG Clean Fuels;Saint-Martin-de-Crau;1;0;0;0;0;43.627203;4.803638
+og;FR;OG Clean Fuels;Saint-Thibault-des-Vignes;0;1;0;0;0;48.873876;2.67468
+og;FR;OG Clean Fuels;Straßburg;0;1;0;0;0;48.559581;7.737664
+og;FR;OG Clean Fuels;Viriat;0;1;0;0;0;46.226548;5.25738
+cng;NL;Loogman;Aalsmeer;1;1;0;0;0;52.289196;4.821903
+cng;NL;Shell;Alkmaar;1;0;0;0;0;52.618761;4.760166
+cng;NL;TotalEnergies;Alkmaar;1;0;0;0;0;52.60905;4.756082
+cng;NL;TotalEnergies;Alphen aan den Rijn;1;1;0;0;0;52.112041;4.66357
+cng;NL;Esso;Amersfoort;1;0;0;0;0;52.203118;5.365662
+cng;NL;TotalEnergies;Amsterdam;1;0;0;0;0;52.334267;4.928472
+cng;NL;Texaco;Apeldoorn;0;1;0;0;0;52.200403;6.034451
+cng;NL;Tango;Arnheim;1;1;0;0;0;51.948777;5.88446
+cng;NL;Shell;Arnheim;1;1;0;0;0;51.970797;5.947756
+cng;NL;Esso;Arnheim;1;0;0;0;0;51.97882;5.971412
+cng;NL;Avia;Assen;1;0;0;0;0;53.007726;6.5822
+cng;NL;DCB Energy;Assen;0;1;0;0;0;52.959477;6.548632
+cng;NL;Kuster;Babberich;1;0;0;0;0;51.908699;6.149809
+cng;NL;Argos;Barneveld;1;1;0;0;0;52.122557;5.563988
+cng;NL;TAMOIL;Bergen op Zoom;1;0;0;0;0;51.498673;4.269641
+cng;NL;Rolande;Berkel-Enschot;0;0;1;0;0;51.582783;5.120668
+cng;NL;BP;Beverwijk;1;0;0;0;0;52.473461;4.672761
+cng;NL;LNG Achterhoek;Borculo;0;1;0;0;0;52.127021;6.530793
+cng;NL;TotalEnergies;Born;1;1;0;0;0;51.070117;5.819044
+cng;NL;DCB Energy;Borne;1;0;0;0;0;52.286706;6.744789
+cng;NL;OK;Breda;1;0;0;0;0;51.56964;4.800676
+cng;NL;TotalEnergies;Capelle aan den IJssel;1;0;0;0;0;51.953471;4.563195
+cng;NL;Shell;Cuijk;1;0;0;0;0;51.731365;5.860209
+cng;NL;Shell;Delfgauw;1;0;0;0;0;51.997478;4.397173
+cng;NL;TotalEnergies;Den Haag;1;1;0;0;0;52.052914;4.398247
+cng;NL;Esso;Den Haag;0;0;0;0;0;52.042547;4.284652
+cng;NL;Haan;Den Haag;1;0;0;0;0;52.045839;4.254018
+cng;NL;Esso;Den Haag;0;0;0;0;0;52.042724;4.240981
+cng;NL;TAMOIL;Den Haag;1;0;0;0;0;52.06714;4.386758
+cng;NL;Total;Den Haag;1;1;0;0;0;52.060124;4.304498
+cng;NL;Kuster;Doetinchem;1;0;0;0;0;51.94612;6.283718
+cng;NL;DCB Energy;Dordrecht;0;0;0;0;0;51.751246;4.63926
+cng;NL;Avia;Drachten;1;0;0;0;0;53.096177;6.135075
+cng;NL;PitPoint;Ede;1;1;0;0;0;52.040197;5.61437
+cng;NL;TotalEnergies;Eersel;1;0;0;0;0;51.362269;5.303796
+cng;NL;Shell;Eindhoven;1;1;0;0;0;51.466472;5.418716
+cng;NL;Esso;Emmen;1;0;0;0;0;52.77229;6.895422
+cng;NL;Avia;Enschede;1;0;0;0;0;52.22336;6.837272
+cng;NL;Shell;Etten-Leur;1;0;0;0;0;51.56432;4.609579
+cng;NL;Lukoil;Geldermalsen;1;0;0;0;0;51.866994;5.3085
+cng;NL;Greenpoint;Goeree-Overflakkee;0;1;0;0;0;51.700382;4.204062
+cng;NL;AviaXPress;Goes;1;1;0;0;0;51.493514;3.881696
+cng;NL;Kuster;Groenlo;0;0;0;0;0;52.06145;6.624291
+cng;NL;Avia;Groningen;1;0;0;0;0;53.236382;6.533037
+cng;NL;TotalEnergies;Harderwijk;1;1;0;0;0;52.33824;5.63068
+cng;NL;Esso;Harlingen;1;1;0;0;0;53.182238;5.46097
+cng;NL;Esso;Heemstede;1;0;0;0;0;52.344222;4.628857
+cng;NL;TAMOIL;Heerlen;1;0;0;0;0;50.890622;5.99954
+cng;NL;Shell;Hengelo;1;0;0;0;0;52.24313;6.764531
+cng;NL;TotalEnergies;Herten;1;0;0;0;0;51.166486;5.962724
+cng;NL;DCB Energy;Hoofddorp;0;0;0;0;0;52.270314;4.692568
+cng;NL;Lukoil;Hoogblokland;1;1;0;0;0;51.898678;4.982465
+cng;NL;Holthausen;Hoogezand;1;1;0;0;0;53.165034;6.724564
+cng;NL;Esso;Horst;1;1;0;0;0;51.440872;6.049045
+cng;NL;Gemeente Leiden;Gemeente Leiden;1;1;0;0;0;52.159215;4.478357
+cng;NL;Esso;Leiden;1;0;0;0;0;52.169304;4.512784
+cng;NL;Supertank;Lelystad;1;0;0;0;0;52.499582;5.449219
+cng;NL;TotalEnergies;Lisse;1;0;0;0;0;52.269058;4.55595
+cng;NL;Shell;Maarssen;1;0;0;0;0;52.137563;5.074321
+cng;NL;Lukoil;Maastricht;1;0;0;0;0;50.87641;5.705766
+cng;NL;Esso;Melick - Limburg;1;0;0;0;0;51.155393;6.006385
+cng;NL;Joontjes;Meppel;0;0;0;0;0;52.69921;6.169146
+cng;NL;Shell;Middelburg;1;0;0;0;0;51.48963;3.632499
+cng;NL;De Roo;Naaldwijk;0;1;0;0;0;51.989017;4.220116
+cng;NL;TotalEnergies;Nederweert;1;1;0;0;0;51.277733;5.743297
+cng;NL;TAMOIL;Nieuwegein;1;0;0;0;0;52.05101;5.109581
+cng;NL;Esso;Nijkerk;0;1;0;0;0;52.211587;5.449618
+cng;NL;TotalEnergies;Nimwegen;1;1;0;0;0;51.848478;5.833235
+cng;NL;Esso;Nimwegen;0;0;0;0;0;51.82558;5.76021
+cng;NL;Peut;Noordwijk;1;0;0;0;0;52.213182;4.434267
+cng;NL;Lukoil;Oosterhout;1;0;0;0;0;51.673187;4.824145
+cng;NL;Tango;Oss;1;1;0;0;0;51.77389;5.551541
+cng;NL;Shell;Pesse;1;0;0;0;0;52.774281;6.44568
+cng;NL;Shell;Purmerend;1;0;0;0;0;52.503522;4.936375
+cng;NL;Sanderman;Rijssen;1;0;0;0;0;52.314133;6.511888
+cng;NL;DCB Energy;Roosendaal;1;1;0;0;0;51.560238;4.457037
+cng;NL;Esso;Rosmalen;1;0;0;0;0;51.711897;5.361246
+cng;NL;Argos;Rotterdam;1;0;0;0;0;51.94787;4.429051
+cng;NL;Argos;Rotterdam;1;0;0;0;0;51.887036;4.52298
+cng;NL;DCB Energy;Rotterdam;0;0;0;0;0;51.938741;4.138722
+cng;NL;TotalEnergies;Schiedam;1;0;0;0;0;51.930253;4.403285
+cng;NL;TotalEnergies;Schiphol;1;0;0;0;0;52.30405;4.751342
+cng;NL;DCB Energy;Sevenum;0;1;0;0;0;51.400542;6.068686
+cng;NL;Lukoil;Sliedrecht;1;0;0;0;0;51.832716;4.755718
+cng;NL;Esso;Sneek;1;0;0;0;0;53.022287;5.678763
+cng;NL;TotalEnergies;Tiel;1;0;0;0;0;51.909873;5.453254
+cng;NL;ABC;Tilburg;1;0;0;0;0;51.5777;5.078478
+cng;NL;Greenpoint;Uden;1;0;0;0;0;51.654768;5.645106
+cng;NL;Rolande;Utrecht;0;0;0;0;0;52.116524;5.030993
+cng;NL;PitPoint;Veenendaal;1;1;0;0;0;52.044213;5.55811
+cng;NL;Greenpoint;Veghel;0;0;0;0;0;51.598965;5.521963
+cng;NL;Schippersstop;Veldhoven;0;1;0;0;0;51.433472;5.360268
+cng;NL;TotalEnergies;Velsen;1;1;0;0;0;52.458197;4.660282
+cng;NL;TotalEnergies;Venlo;1;1;0;0;0;51.352355;6.150613
+cng;NL;BP;Venray;1;0;0;0;0;51.51785;5.97995
+cng;NL;DCB Energy;Waddinxveen;0;0;0;0;0;52.018569;4.643029
+cng;NL;TotalEnergies;Zaandam;1;0;0;0;0;52.431301;4.853399
+cng;NL;TAMOIL;Zaltbommel;1;1;0;0;0;51.799758;5.260602
+cng;NL;Tango;Zoetermeer;1;0;0;0;0;52.036278;4.504578
+cng;NL;Argos;Zwaag;1;0;0;0;0;52.671493;5.060528
+cng;NL;Esso;Zwolle;1;0;0;0;0;52.524636;6.117156
+cng;NL;Texaco;Zwolle;0;0;0;0;0;52.538381;6.169868
+cng;DE;Freie;Aalen;1;0;0;0;0;48.8351;10.08858
+cng;DE;Shell;Achern;1;1;0;0;0;48.640949;8.037615
+cng;DE;HEM;Admannshagen-Bargeshagen;1;0;0;0;0;54.11106;11.97233
+cng;DE;Aral;Ahaus;0;0;0;0;0;52.073032;6.995855
+cng;DE;Avia;Ahlen;1;0;0;0;0;51.74706;7.89953
+cng;DE;Esso;Alsfeld;1;0;0;0;0;50.751722;9.285667
+cng;DE;A-Energy;Altenkirchen;0;0;0;0;0;50.68972;7.62347
+cng;DE;Tankpoint;Ansbach;1;0;0;0;0;49.298886;10.583585
+cng;DE;TC;Apolda;1;0;0;0;0;51.02394;11.49702
+cng;DE;bft;Arnstadt;1;0;0;0;0;50.83025;10.969833
+cng;DE;Aral;Aschaffenburg;0;0;0;0;0;49.96141;9.177907
+cng;DE;bft;Auggen;1;0;0;0;0;47.786639;7.59025
+cng;DE;SWA;Augsburg;1;0;1;1;0;48.37267;10.91342
+cng;DE;Aral;Augsburg;1;0;0;0;0;48.385968;10.851539
+cng;DE;Aral;Augsburg;1;0;0;0;0;48.3445;10.885278
+cng;DE;Avia;Backnang;1;0;0;0;0;48.949722;9.420972
+cng;DE;Aral;Bad Belzig;1;0;0;0;0;52.144667;12.613056
+cng;DE;SBK;Bad Bergzabern;1;0;0;0;0;49.102746;8.011765
+cng;DE;bft;Bad Dürkheim;1;0;0;0;0;49.46939;8.202012
+cng;DE;Aral;Bad Hersfeld;1;0;0;0;0;50.86192;9.722903
+cng;DE;rhv;Bad Honnef;1;1;0;0;0;50.649884;7.325409
+cng;DE;SW Bad Kissingen;SW Bad Kissingen;1;1;0;0;0;50.186917;10.077528
+cng;DE;Aral;Bad Kreuznach;0;0;0;0;0;49.8515;7.892955
+cng;DE;Star;Bad Lauterberg;1;0;0;0;0;51.621139;10.414194
+cng;DE;E-Center;Bad Neustadt;1;1;0;0;0;50.330962;10.228808
+cng;DE;Vereinigte Stadtwerke;Bad Oldesloe;0;1;0;0;0;53.801222;10.395167
+cng;DE;bft;Bad Pyrmont;1;0;0;0;0;51.97884;9.26365
+cng;DE;Aral;Bad Rappenau;1;0;0;0;0;49.210674;9.069792
+cng;DE;Avia;Bad Waldsee;1;0;0;0;0;47.925575;9.754988
+cng;DE;Esso;Bad Wörishofen;1;0;0;0;0;48.010164;10.598947
+cng;DE;SWB;Balingen;1;1;0;0;0;48.256351;8.85242
+cng;DE;BAVARIA Petrol;Bamberg;1;0;0;0;0;49.886672;10.921837
+cng;DE;biogeen Mobility;Bamberg;1;1;0;0;0;49.91971;10.88668
+cng;DE;TotalEnergies;Barsinghausen;1;0;0;0;0;52.333107;9.414774
+cng;DE;Aral;Bautzen;0;0;0;0;0;51.190271;14.451603
+cng;DE;Esso;Bayreuth;1;0;0;0;0;49.93621;11.59119
+cng;DE;Aral;Bensheim;0;0;0;0;0;49.67279;8.59722
+cng;DE;TotalEnergies;Bergen;1;0;0;0;0;54.407467;13.417996
+cng;DE;Aral;Bergisch Gladbach;0;0;0;0;0;51.000194;7.131611
+cng;DE;Aral;Bergkamen;0;0;0;0;0;51.65183;7.66331
+cng;DE;TotalEnergies;Berlin;1;0;0;0;0;52.504226;13.624326
+cng;DE;HEM;Berlin;1;0;0;0;0;52.509953;13.531526
+cng;DE;TotalEnergies;Berlin;1;0;0;0;0;52.536833;13.515583
+cng;DE;Aral;Berlin;1;0;0;0;0;52.45993;13.5041
+cng;DE;TotalEnergies;Berlin;1;0;0;0;0;52.48379;13.47825
+cng;DE;Sprint;Berlin;1;0;0;0;0;52.53389;13.445101
+cng;DE;Star;Berlin;1;0;0;0;0;52.56881;13.428602
+cng;DE;TotalEnergies;Berlin;1;0;0;0;0;52.53729;13.37497
+cng;DE;TotalEnergies;Berlin;1;0;0;0;0;52.500514;13.376804
+cng;DE;Esso;Berlin;1;0;0;0;0;52.519802;13.341071
+cng;DE;biogeen Mobility;Berlin;1;1;1;0;0;52.537496;13.340637
+cng;DE;Aral;Berlin;0;0;0;0;0;52.434001;13.390666
+cng;DE;TotalEnergies;Berlin;1;0;0;0;0;52.508365;13.260452
+cng;DE;Esso;Berlin;1;0;0;0;0;52.435639;13.266611
+cng;DE;TotalEnergies;Bernau;1;0;0;0;0;52.668111;13.582194
+cng;DE;SWB;Bernburg;1;0;0;1;0;51.7798;11.77019
+cng;DE;Star;Bernburg;1;0;0;0;0;51.789806;11.702472
+cng;DE;SWB;Bernburg;1;0;0;1;0;51.813213;11.741109
+cng;DE;e.wa riss;Biberach;1;1;0;0;0;48.102295;9.794763
+cng;DE;Westfalen;Bielefeld;1;0;0;0;0;51.932225;8.608146
+cng;DE;Westfalen;Bielefeld;1;0;0;0;0;52.033401;8.558338
+cng;DE;VERBIO;Bindlach;1;1;0;0;0;49.971141;11.616851
+cng;DE;TotalEnergies;Birkenwerder;1;0;0;0;0;52.70281;13.27236
+cng;DE;Aral;Blieskastel;1;0;0;0;0;49.23561;7.26958
+cng;DE;Aral;Blomberg;0;0;0;0;0;51.93975;9.091306
+cng;DE;Classic;Bocholt;1;0;0;0;0;51.82125;6.613389
+cng;DE;Aral;Bochum;0;0;0;0;0;51.46525;7.131139
+cng;DE;TotalEnergies;Bornheim;1;0;0;0;0;50.762528;6.975917
+cng;DE;Westfalen;Bottrop;0;0;0;0;0;51.535714;6.97903
+cng;DE;bft;Bramsche;1;0;0;0;0;52.416589;7.975515
+cng;DE;HEM;Brandenburg;1;0;0;0;0;52.429972;12.53175
+cng;DE;BS|ENERGY;Braunschweig;1;1;0;1;0;52.28054;10.52734
+cng;DE;Aral;Braunschweig;0;0;0;0;0;52.234861;10.527389
+cng;DE;Europoint;Breisach;1;0;0;0;0;48.024561;7.586364
+cng;DE;Raiffeisen;Bretten;1;0;0;0;0;49.049746;8.73447
+cng;DE;EWB;Bruchsal;1;1;0;0;0;49.13736;8.57225
+cng;DE;SW Brühl;SW Brühl;1;1;0;0;0;50.838916;6.921058
+cng;DE;Esso;Burghausen;1;0;0;0;0;48.17517;12.82533
+cng;DE;Tankpool24;Burglengenfeld;1;1;0;0;0;49.210892;12.018593
+cng;DE;Esso;Burglengenfeld;1;0;0;0;0;49.198292;12.057053
+cng;DE;Aral;Burscheid;0;0;0;0;0;51.084167;7.127306
+cng;DE;Shell;Busdorf;1;1;0;0;0;54.47698;9.544866
+cng;DE;Aral;Chemnitz;0;0;0;0;0;50.856498;12.929749
+cng;DE;Raiffeisen;Clenze;1;0;0;0;0;52.938391;10.960438
+cng;DE;biogeen Mobility;Coburg;1;1;0;0;0;50.253799;10.962005
+cng;DE;Westfalen;Coesfeld;1;1;0;0;0;51.925719;7.161757
+cng;DE;Sprint;Cottbus;1;0;0;0;0;51.772774;14.360273
+cng;DE;SW Crailsheim;SW Crailsheim;1;1;0;0;0;49.132149;10.056358
+cng;DE;Aral;Dachau;0;0;0;0;0;48.259694;11.470001
+cng;DE;SÜLL;Dahme;1;1;0;0;0;51.864111;13.441167
+cng;DE;VRplus;Dannenberg;1;0;0;0;0;53.10384;11.12927
+cng;DE;SW Deggendorf;SW Deggendorf;1;1;0;0;0;48.83237;12.95666
+cng;DE;Aral;Delmenhorst;0;0;0;0;0;53.032028;8.621667
+cng;DE;DVV;Dessau;1;0;0;1;0;51.809993;12.239082
+cng;DE;Tankpool24;Diemelstadt-Rhoden;1;1;0;0;0;51.487265;9.005092
+cng;DE;Aral;Diepholz;1;0;0;0;0;52.619226;8.36586
+cng;DE;eni;Dingolfing;1;0;0;0;0;48.645313;12.484679
+cng;DE;Markant;Dinslaken;1;0;0;0;0;51.55725;6.796333
+cng;DE;eni;Donauwörth;1;0;0;0;0;48.705028;10.750306
+cng;DE;Avia;Dorsten;1;0;0;0;0;51.754778;6.964222
+cng;DE;Avia;Dortmund;1;0;0;0;0;51.505611;7.55775
+cng;DE;BAVARIA Petrol;Dortmund;1;0;0;0;0;51.54634;7.460392
+cng;DE;TotalEnergies;Dreieich;1;0;0;0;0;50.00882;8.689305
+cng;DE;eni;Dreieich;0;0;0;0;0;50.034608;8.694563
+cng;DE;TotalEnergies;Dresden;1;0;0;0;0;51.06125;13.693861
+cng;DE;Aral;Dresden;0;0;0;0;0;51.09443;13.73606
+cng;DE;Aral;Duderstadt;0;0;0;0;0;51.5165;10.243139
+cng;DE;SWRAG;Dummerstorf;1;1;0;0;0;54.022646;12.231613
+cng;DE;TotalEnergies;Döbeln;1;0;0;0;0;51.153778;13.119639
+cng;DE;TotalEnergies;Düsseldorf;1;0;0;0;0;51.200025;6.768503
+cng;DE;TotalEnergies;Düsseldorf;1;0;0;0;0;51.221667;6.820333
+cng;DE;Esso;Ebersberg;1;0;0;0;0;48.096596;11.961986
+cng;DE;Sprit-Shop;Ehrenkirchen;1;0;0;0;0;47.920774;7.727102
+cng;DE;SW Einbeck;SW Einbeck;1;1;0;0;0;51.816409;9.876349
+cng;DE;Access;Eisenach;1;0;0;0;0;50.981389;10.346722
+cng;DE;Edi;Ellhofen;1;1;0;0;0;49.144042;9.308669
+cng;DE;B.A.G.;Ellwangen;1;0;0;0;0;48.95406;10.11795
+cng;DE;eni;Elsendorf;1;0;0;0;0;48.71649;11.80058
+cng;DE;Aral;Elsterwerda;1;1;0;0;0;51.467462;13.537753
+cng;DE;Tankhof Grün;Emmendingen;1;0;0;0;0;48.127481;7.8255
+cng;DE;Aral;Emmerich;1;0;0;0;0;51.842176;6.275251
+cng;DE;TotalEnergies;Engen;1;0;0;0;0;47.85565;8.781364
+cng;DE;VERBIO;Ennigerloh;1;1;0;0;0;51.853595;8.030064
+cng;DE;Q1;Ennigerloh;1;0;0;0;0;51.83022;8.02483
+cng;DE;Aral;Erding;0;0;0;0;0;48.314778;11.892917
+cng;DE;Aral;Erftstadt;1;0;0;0;0;50.810429;6.808743
+cng;DE;Shell;Erkheim;1;1;0;0;0;48.02595;10.32779
+cng;DE;T;Erkner;1;0;0;0;0;52.426574;13.751064
+cng;DE;TotalEnergies;Erlangen;1;0;0;0;0;49.54524;11.02993
+cng;DE;bft;Eschwege;1;0;0;0;0;51.19308;10.03528
+cng;DE;Aral;Eschweiler;0;0;0;0;0;50.82517;6.247004
+cng;DE;Shell;Essen;1;0;0;0;0;51.471052;7.007105
+cng;DE;Aral;Essen;1;0;0;0;0;51.432125;7.002018
+cng;DE;SWE;Esslingen;1;1;0;0;0;48.74125;9.294833
+cng;DE;Aral;Ettlingen;1;0;0;0;0;48.9582;8.4064
+cng;DE;Aral;Euskirchen;1;0;0;0;0;50.670165;6.772491
+cng;DE;TotalEnergies;Fellbach;1;0;0;0;0;48.822309;9.285374
+cng;DE;Q1;Finsterwalde;1;0;0;0;0;51.619278;13.713528
+cng;DE;Star;Flöha;1;0;0;0;0;50.864286;13.057583
+cng;DE;Globus;Forchheim;1;1;0;0;0;49.70775;11.068361
+cng;DE;Pfalzgas;Frankenthal;1;1;0;0;0;49.550723;8.353002
+cng;DE;SW FFO;Frankfurt;1;1;0;0;0;52.320256;14.536393
+cng;DE;Esso;Freiburg;1;0;0;0;0;47.979973;7.7907
+cng;DE;Aral;Freital;0;0;0;0;0;51.00189;13.6516
+cng;DE;Avia;Freudenstadt;1;0;0;0;0;48.465799;8.424638
+cng;DE;Avia;Fulda;1;0;0;0;0;50.540747;9.699792
+cng;DE;Avia;Fulda;1;0;0;0;0;50.553528;9.663139
+cng;DE;Tankpool24;Fuldabrück;1;0;0;0;0;51.269996;9.515144
+cng;DE;Shell;Fürholzen;1;0;0;0;1;48.338063;11.607359
+cng;DE;Autohaus Rasch;Fürstenfeldbruck;1;1;0;0;0;48.186692;11.245386
+cng;DE;biogeen Mobility;Gaggenau;1;1;0;0;0;48.826352;8.296641
+cng;DE;GW GAP;Garmisch-Partenkirchen;1;1;0;0;0;47.502389;11.097722
+cng;DE;EVF;Geislingen;1;1;0;0;0;48.614784;9.81471
+cng;DE;TotalEnergies;Gelsenkirchen;1;0;0;0;0;51.520167;7.078861
+cng;DE;TotalEnergies;Gera;1;0;0;0;0;50.891028;12.068667
+cng;DE;Elan;Germersheim;1;0;0;0;0;49.227832;8.371709
+cng;DE;eni;Gersthofen;1;0;0;0;0;48.436794;10.869125
+cng;DE;Aral;Geseke;0;0;0;0;0;51.597927;8.515745
+cng;DE;Aral;Gießen;1;0;0;0;0;50.606361;8.696014
+cng;DE;SW Gießen;SW Gießen;1;1;0;0;0;50.584106;8.665687
+cng;DE;Raiffeisen;Gifhorn;1;0;0;0;0;52.478222;10.537235
+cng;DE;TotalEnergies;Gladbeck;1;0;0;0;0;51.565954;6.965032
+cng;DE;TotalEnergies;Glauchau;1;0;0;0;0;50.840417;12.542278
+cng;DE;TotalEnergies;Goch;1;0;0;0;0;51.672333;6.17225
+cng;DE;FairEnergie;Gomaringen;0;1;0;0;0;48.45531;9.08541
+cng;DE;Aral;Goslar;0;0;0;0;0;51.912728;10.421921
+cng;DE;HEM;Gotha;1;0;0;0;0;50.941909;10.730922
+cng;DE;TotalEnergies;Grafenau;1;0;0;0;0;48.7149;8.900469
+cng;DE;Avia;Grefrath;1;0;0;0;0;51.33915;6.350701
+cng;DE;SW Greifswald;SW Greifswald;1;1;0;0;0;54.070211;13.398115
+cng;DE;OIL;Greifswald;1;0;0;0;0;54.067917;13.43425
+cng;DE;TotalEnergies;Grevesmühlen;1;0;0;0;0;53.865393;11.20952
+cng;DE;Aral;Grimma;0;0;0;0;0;51.2563;12.72564
+cng;DE;Avia;Gronau;1;0;0;0;0;52.185596;7.032454
+cng;DE;Globus;Grünstadt;1;1;0;0;0;49.556333;8.180361
+cng;DE;Aral;Gummersbach;1;0;0;0;0;51.00325;7.57575
+cng;DE;Elan;Gunzenhausen;1;0;0;0;0;49.113573;10.747719
+cng;DE;EVF;Göppingen;1;1;0;0;0;48.701945;9.670182
+cng;DE;Aral;Göttingen;1;0;0;0;0;51.553971;9.930994
+cng;DE;Esso;Göttingen;1;0;0;0;0;51.533884;9.907972
+cng;DE;Shell;Günzburg;1;1;0;0;0;48.433167;10.292556
+cng;DE;Aral;Gütersloh;0;0;0;0;0;51.91278;8.366963
+cng;DE;TotalEnergies;Haan;1;0;0;0;0;51.204849;7.041485
+cng;DE;TotalEnergies;Hagen;1;0;0;0;0;51.38591;7.437433
+cng;DE;Tucht;Hagen;1;0;0;0;0;51.349437;7.484173
+cng;DE;Halberstadtwerke;Halberstadtwerke;1;1;1;0;0;51.887056;11.061111
+cng;DE;eni;Halberstadt;1;0;0;0;0;51.885111;11.030361
+cng;DE;Aral;Halle;1;0;0;0;0;52.050826;8.37716
+cng;DE;Aral;Halle;1;0;0;0;0;51.502222;12.033833
+cng;DE;SWH;Halle;1;1;0;0;0;51.487724;11.994133
+cng;DE;PS Union;Halle;1;1;0;0;0;51.488481;11.940024
+cng;DE;biogeen Mobility;Halle;1;1;1;1;0;51.469595;11.90094
+cng;DE;Aral;Hamburg;0;0;0;0;0;53.585764;9.933368
+cng;DE;Aral;Hamburg;0;0;0;0;0;53.592361;10.05467
+cng;DE;TotalEnergies;Hamburg;1;0;0;0;0;53.511922;10.08896
+cng;DE;JET;Hameln;1;0;0;0;0;52.098196;9.362362
+cng;DE;Aral;Hamm;0;0;0;0;0;51.672083;7.814833
+cng;DE;VERBIO;Hammah;1;1;0;0;0;53.600428;9.367085
+cng;DE;eni;Hanau;1;0;0;0;0;50.14614;8.90875
+cng;DE;Team;Handewitt;1;0;0;0;0;54.77789;9.334144
+cng;DE;Freie;Hauenstein;1;0;0;0;0;49.199222;7.837333
+cng;DE;Stadtwerk Haßfurt;Stadtwerk Haßfurt;1;1;0;0;0;50.028748;10.533223
+cng;DE;Stadtwerk Haßfurt;Stadtwerk Haßfurt;1;0;0;0;0;50.029657;10.525326
+cng;DE;Aral;Hechingen;0;0;0;0;0;48.351972;8.976056
+cng;DE;bft;Heide;1;0;0;0;0;54.184667;9.108444
+cng;DE;KK;Heidelberg;1;0;0;0;0;49.406361;8.658861
+cng;DE;MINOL;Heidenau;1;0;0;0;0;50.987372;13.858075
+cng;DE;HEM;Heilbad Heiligenstadt;1;0;0;0;0;51.385139;10.1655
+cng;DE;HNVG;Heilbronn;1;1;1;0;0;49.149276;9.215852
+cng;DE;Shell;Hengersberg;1;1;0;0;0;48.765917;13.045583
+cng;DE;Shell;Herbolzheim;1;1;0;0;0;48.227294;7.753478
+cng;DE;Westfalen;Herford;1;0;0;0;0;52.060605;8.644524
+cng;DE;Globus;Hermsdorf;1;1;0;0;0;50.887917;11.849194
+cng;DE;TotalEnergies;Herne;1;0;0;0;0;51.52722;7.18754
+cng;DE;TotalEnergies;Herten;1;0;0;0;0;51.607185;7.123963
+cng;DE;TotalEnergies;Hettstedt;1;0;0;0;0;51.657306;11.495417
+cng;DE;Star;Hilden;1;0;0;0;0;51.176472;6.938389
+cng;DE;Esso;Hildesheim;1;0;0;0;0;52.157667;9.977111
+cng;DE;bft;Hof;1;0;0;0;0;50.317508;11.898978
+cng;DE;VERBIO;Hohenwarsleben;1;1;0;0;0;52.175302;11.490227
+cng;DE;SWH;Homburg;1;0;0;1;0;49.340553;7.347026
+cng;DE;Aral;Höxter;0;0;0;0;0;51.786194;9.386944
+cng;DE;GVG;Hürth;1;0;0;1;0;50.884923;6.902743
+cng;DE;TotalEnergies;Idstein;1;0;0;0;0;50.216694;8.253861
+cng;DE;eni;Illertissen;1;0;0;0;0;48.225028;10.102889
+cng;DE;TotalEnergies;Illertissen;1;0;0;0;0;48.219638;10.127352
+cng;DE;TotalEnergies;Ilmenau;1;0;0;0;0;50.678693;10.93592
+cng;DE;Aral;Ingolstadt;1;0;0;0;0;48.77525;11.459361
+cng;DE;eni;Irschenberg;1;0;0;0;0;47.82666;11.89805
+cng;DE;Raiffeisen;Isenbüttel;1;0;0;0;0;52.44846;10.58691
+cng;DE;Aral;Iserlohn;1;0;0;0;0;51.378056;7.727889
+cng;DE;Avia;Isselburg;1;0;0;0;0;51.81937;6.445616
+cng;DE;Aral;Jena;0;0;0;0;0;50.877352;11.6217
+cng;DE;TotalEnergies;Jena;1;0;0;0;0;50.898003;11.593193
+cng;DE;TotalEnergies;Kaiserslautern;1;0;0;0;0;49.45721;7.801505
+cng;DE;Karls;Kall;1;0;0;0;0;50.550194;6.574418
+cng;DE;eni;Karlsruhe;1;0;0;0;0;49.018278;8.354278
+cng;DE;bft;Karlsruhe;1;0;0;0;0;49.015666;8.397728
+cng;DE;Die Energie;Karlstadt;1;1;0;0;0;49.954528;9.778972
+cng;DE;Aral;Kassel;0;0;0;0;0;51.294612;9.51171
+cng;DE;Esso;Kaufbeuren;1;1;0;0;0;47.900917;10.640151
+cng;DE;Aral;Kempten;0;0;0;0;0;47.7333;10.3252
+cng;DE;bft;Kiel;1;0;0;0;0;54.33301;10.1142
+cng;DE;TotalEnergies;Kirchheim;1;0;0;0;0;48.642101;9.433399
+cng;DE;Hempelmann;Kirchlengern;1;0;0;0;0;52.217389;8.638306
+cng;DE;kbb;Kirchlinteln;1;1;0;0;0;52.904018;9.309904
+cng;DE;LKW Kitzingen;LKW Kitzingen;1;1;0;0;0;49.741111;10.181556
+cng;DE;Aral;Kleinostheim;0;0;0;0;0;49.99523;9.068307
+cng;DE;Aral;Klettwitz;1;1;0;0;0;51.536472;13.911001
+cng;DE;TotalEnergies;Koblenz;1;0;0;0;0;50.362556;7.571552
+cng;DE;SW Konstanz;SW Konstanz;1;1;0;0;0;47.675083;9.16369
+cng;DE;MHT;Kottenheim;1;0;0;0;0;50.343654;7.262287
+cng;DE;Insel-Tank;Krefeld;1;0;0;0;0;51.328822;6.546235
+cng;DE;biogeen Mobility;Kronach;1;1;0;0;0;50.226278;11.316889
+cng;DE;biogeen Mobility;Kulmbach;1;1;0;0;0;50.11313;11.45591
+cng;DE;Aral;Köln;0;0;0;0;0;50.89169;6.966539
+cng;DE;GasCom;Köln;1;1;0;0;0;50.850778;7.11731
+cng;DE;Aral;Königswinter;1;0;0;0;0;50.698922;7.277722
+cng;DE;Günther;Lahr;1;0;0;0;0;48.35375;7.80775
+cng;DE;Gillet;Landau;1;0;0;0;0;49.211431;8.119389
+cng;DE;Allguth;Landsberg;1;0;0;0;0;48.051583;10.8925
+cng;DE;VERBIO;Landsberg;1;1;0;0;0;51.48264;12.094251
+cng;DE;Esso;Landshut;1;0;0;0;0;48.556643;12.153421
+cng;DE;Esso;Landstuhl;1;0;0;0;0;49.41549;7.564478
+cng;DE;bft;Langenfeld;1;0;0;0;0;51.122001;6.924777
+cng;DE;ELO;Langenzenn;1;0;0;0;0;49.485389;10.78125
+cng;DE;TotalEnergies;Laucha;1;0;0;0;0;50.9225;10.55219
+cng;DE;Avia;Lauterbach;1;0;0;0;0;50.641447;9.406213
+cng;DE;TotalEnergies;Lehrte;1;0;0;0;0;52.38535;9.952797
+cng;DE;bft;Leinefelde;1;0;0;0;0;51.376533;10.330007
+cng;DE;TotalEnergies;Leipzig;1;0;0;0;0;51.413488;12.307945
+cng;DE;eni;Leipzig;1;0;0;0;0;51.410611;12.393972
+cng;DE;Stadtwerke Leipzig;Stadtwerke Leipzig;1;1;0;0;0;51.309427;12.387522
+cng;DE;bft;Leipzig;1;0;0;0;0;51.356748;12.437829
+cng;DE;TotalEnergies;Leipzig;1;0;0;0;0;51.354135;12.394278
+cng;DE;Raiffeisen;Lemgo;1;0;0;0;0;52.026889;8.865306
+cng;DE;HEM;Limburg;1;0;0;0;0;50.381077;8.091044
+cng;DE;SW Lingen;SW Lingen;1;1;0;0;0;52.528325;7.321921
+cng;DE;Esso;Linthe;1;0;0;0;0;52.15909;12.78126
+cng;DE;TotalEnergies;Lippetal;1;0;0;0;0;51.696242;7.967103
+cng;DE;Stakemeier;Lippstadt;1;0;0;0;0;51.65363;8.35853
+cng;DE;Shell;Lohfelden;1;1;0;0;0;51.271582;9.526434
+cng;DE;Die Energie;Lohr;1;1;0;0;0;49.978556;9.576611
+cng;DE;SÜLL;Luckau;1;1;0;0;0;51.856789;13.710797
+cng;DE;TotalEnergies;Luckenwalde;1;0;0;0;0;52.088477;13.179071
+cng;DE;TotalEnergies;Lutherstadt Wittenberg;1;0;0;0;0;51.890667;12.665528
+cng;DE;Esso;Lutherstadt Wittenberg;1;0;0;0;0;51.864444;12.68875
+cng;DE;GTW;Lörrach;1;0;0;0;0;47.61926;7.653522
+cng;DE;Aral;Lübbecke;0;0;0;0;0;52.301952;8.596522
+cng;DE;Aral;Lübben;0;0;0;0;0;51.94259;13.91119
+cng;DE;SÜLL;Lübbenau;1;1;0;0;0;51.851406;13.90545
+cng;DE;VERBIO;Lübbenau;1;1;0;0;0;51.833538;13.917051
+cng;DE;Citti Tank;Lübeck;1;0;0;0;0;53.859995;10.626927
+cng;DE;HEM;Lübeck;1;0;0;0;0;53.84878;10.67536
+cng;DE;Avia;Lübeck;1;0;0;0;0;53.880056;10.672472
+cng;DE;Team;Lüchow;1;0;0;0;0;52.978315;11.164275
+cng;DE;Aral;Lüdenscheid;0;0;0;0;0;51.22856;7.651119
+cng;DE;Orlen;Lüneburg;1;1;0;0;0;53.239207;10.460754
+cng;DE;bft;Lünen;1;0;0;0;0;51.62232;7.515678
+cng;DE;Aral;Magdeburg;0;0;0;0;0;52.132167;11.665556
+cng;DE;Aral;Magdeburg;0;0;0;0;0;52.105125;11.58964
+cng;DE;TotalEnergies;Magdeburg;1;0;0;0;0;52.211091;11.670567
+cng;DE;Aral;Mainz;0;0;0;0;0;50.027126;8.223041
+cng;DE;TotalEnergies;Malchow;1;0;0;0;0;53.481077;12.421069
+cng;DE;Esso;Malsfeld;1;0;0;0;0;51.087278;9.485778
+cng;DE;TotalEnergies;Mannheim;1;0;0;0;0;49.513365;8.484304
+cng;DE;SW Marburg;SW Marburg;1;1;0;0;0;50.790778;8.758972
+cng;DE;VERBIO;Meineweh;1;1;0;0;0;51.087692;11.960793
+cng;DE;Tankpoint;Memmingen;1;0;0;0;0;47.98017;10.19039
+cng;DE;Aral;Merklingen;0;0;0;0;0;48.516083;9.759694
+cng;DE;Star;Merseburg;1;1;0;0;0;51.360225;12.01911
+cng;DE;Shell;Merzig;1;0;0;0;0;49.441944;6.622694
+cng;DE;Aral;Mittweida;0;0;0;0;0;50.993409;12.965588
+cng;DE;Markant;Moers;0;0;0;0;0;51.43863;6.65765
+cng;DE;TotalEnergies;Mogendorf;1;0;0;0;0;50.482897;7.749675
+cng;DE;SW Mosbach;SW Mosbach;1;1;0;0;0;49.328722;9.109396
+cng;DE;Esso;Murrhardt;1;0;0;0;0;48.977167;9.587528
+cng;DE;Vereinigte Stadtwerke;Mölln;0;1;0;0;0;53.640333;10.695028
+cng;DE;Freie;Mönchengladbach;1;0;0;0;0;51.143014;6.410514
+cng;DE;Shell;Mühlacker;0;0;0;0;0;48.933809;8.805043
+cng;DE;SW Mühlacker;SW Mühlacker;1;1;0;0;0;48.95668;8.84983
+cng;DE;TotalEnergies;Mühldorf;0;1;0;0;0;48.245594;12.510105
+cng;DE;TotalEnergies;Münchberg;1;0;0;0;0;50.202747;11.777802
+cng;DE;eni;München;1;0;0;0;0;48.353911;11.749985
+cng;DE;Allguth;München;1;0;0;0;0;48.17896;11.486918
+cng;DE;Aral;München;1;0;0;0;0;48.176111;11.535729
+cng;DE;HEM;München;1;0;0;0;0;48.111229;11.713083
+cng;DE;BAVARIA Petrol;München;1;0;0;0;0;48.141389;11.413611
+cng;DE;Aral;München;0;0;0;0;0;48.126967;11.522207
+cng;DE;eni;München;1;0;0;0;0;48.098972;11.506972
+cng;DE;SWM;München;1;1;0;0;0;48.118278;11.558167
+cng;DE;Raiffeisen;Münster;1;0;0;0;0;51.940387;7.635127
+cng;DE;Team;Neubrandenburg;1;1;0;0;0;53.576251;13.298993
+cng;DE;Avia;Neumarkt;1;0;0;0;0;49.26456;11.45786
+cng;DE;TotalEnergies;Neumünster;1;0;0;0;0;54.06869;9.937828
+cng;DE;TotalEnergies;Neuruppin;1;0;0;0;0;52.939039;12.818812
+cng;DE;Esso;Neuruppin;1;0;0;0;0;52.890749;12.798311
+cng;DE;Königs;Neuss;1;1;0;0;0;51.138015;6.687434
+cng;DE;Aral;Neuss;0;0;0;0;0;51.206917;6.671417
+cng;DE;Orlen;Neustadt;1;0;0;0;0;54.098857;10.792409
+cng;DE;eni;Neustadt;1;0;0;0;0;50.33143;11.11341
+cng;DE;Globus;Neustadt;1;0;0;0;0;49.34005;8.158972
+cng;DE;HEM;Neustrelitz;1;0;0;0;0;53.344417;13.092139
+cng;DE;Elan;Niebüll;1;0;0;0;0;54.77994;8.83466
+cng;DE;SW Norden;SW Norden;1;1;0;0;0;53.597995;7.23571
+cng;DE;Markant;Nordhorn;1;0;0;0;0;52.440558;7.08724
+cng;DE;TotalEnergies;Nördlingen;1;1;0;0;0;48.860797;10.501933
+cng;DE;Aral;Nürnberg;0;0;0;0;0;49.429555;11.070066
+cng;DE;Aral;Nürnberg;0;0;0;0;0;49.474207;11.064658
+cng;DE;eni;Oberau;1;0;0;0;0;47.560278;11.127028
+cng;DE;Aral;Oberhausen;0;0;0;0;0;51.51666;6.856944
+cng;DE;Avia;Oberkirch;1;0;0;0;0;48.53611;8.0655
+cng;DE;Westfalen;Oelde;1;0;0;0;0;51.811583;8.133694
+cng;DE;ELO;Oettingen;1;1;0;0;0;48.953092;10.609546
+cng;DE;Orlen;Oldenburg;1;0;0;0;0;54.299276;10.886088
+cng;DE;TotalEnergies;Oranienburg;1;0;0;0;0;52.738213;13.2492
+cng;DE;Aral;Osnabrück;0;0;0;0;0;52.276683;8.055113
+cng;DE;Fip;Osnabrück;1;0;0;0;0;52.303568;8.024566
+cng;DE;Aral;Osterode;0;0;0;0;0;51.732632;10.238926
+cng;DE;OIL;Ostseebad Heringsdorf;1;1;0;0;0;53.96294;14.13694
+cng;DE;BAVARIA Petrol;Ottobrunn;1;0;0;0;0;48.06313;11.65209
+cng;DE;Jäger;Overath;1;0;0;0;0;50.942361;7.297917
+cng;DE;Westfalen;Paderborn;1;0;0;0;0;51.7347;8.7671
+cng;DE;Avia;Paderborn;1;0;0;0;0;51.697953;8.732411
+cng;DE;Aral;Parchim;1;0;0;0;0;53.426595;11.819269
+cng;DE;biogeen Mobility;Pegnitz;1;1;0;1;0;49.761972;11.549944
+cng;DE;Aral;Peine;0;0;0;0;0;52.330513;10.235037
+cng;DE;Deltin;Pfaffenhofen;1;0;0;0;0;48.543101;11.511503
+cng;DE;HEM;Pfungstadt;1;0;0;0;0;49.815205;8.620943
+cng;DE;Aral;Plauen;0;0;0;0;0;50.4997;12.1472
+cng;DE;Shell;Pocking;1;0;0;0;0;48.396051;13.311111
+cng;DE;E.ON;Porta Westfalica;1;1;0;0;0;52.209899;8.872848
+cng;DE;Aral;Porta Westfalica;0;0;0;0;0;52.21023;8.872489
+cng;DE;SWP;Potsdam;1;1;0;0;0;52.366807;13.11207
+cng;DE;TotalEnergies;Potsdam;1;0;0;0;0;52.382295;13.088547
+cng;DE;TotalEnergies;Potsdam;1;0;0;0;0;52.375324;13.008152
+cng;DE;Glaser;Prenzlau;1;0;0;0;0;53.330166;13.893355
+cng;DE;Raiffeisen;Pritzwalk;1;0;0;0;0;53.134422;12.17752
+cng;DE;TotalEnergies;Quedlinburg;1;0;0;0;0;51.80907;11.12819
+cng;DE;TotalEnergies;Rastatt;1;0;0;0;0;48.861317;8.23975
+cng;DE;Schindele;Ravensburg;1;1;0;0;0;47.790008;9.607887
+cng;DE;BAVARIA Petrol;Recklinghausen;1;0;0;0;0;51.582778;7.212694
+cng;DE;Shell;Regensburg;1;1;0;0;0;48.995238;12.151078
+cng;DE;TotalEnergies;Regensburg;1;0;0;0;0;49.013178;12.139704
+cng;DE;TotalEnergies;Reiskirchen;1;0;0;0;0;50.596012;8.81767
+cng;DE;Aral;Reutlingen;0;0;0;0;0;48.511767;9.204139
+cng;DE;FairEnergie;Reutlingen;0;1;0;0;0;48.494006;9.188418
+cng;DE;Tankpool24;Rheda-Wiedenbrück;1;1;0;0;0;51.831035;8.214924
+cng;DE;Raiffeisen;Rheinbach;1;0;0;0;0;50.633444;6.958972
+cng;DE;Aral;Rheinböllen;1;0;0;0;0;49.99614;7.68371
+cng;DE;TotalEnergies;Riesa;1;0;0;0;0;51.313287;13.289363
+cng;DE;Aral;Rodgau;0;0;0;0;0;50.069316;8.878388
+cng;DE;E.ON;Roding;1;1;0;0;0;49.197939;12.52616
+cng;DE;VERBIO;Rohr;1;1;0;0;0;49.349869;10.882875
+cng;DE;Esso;Rosenheim;1;0;0;0;0;47.843196;12.082413
+cng;DE;Aral;Rostock;1;0;0;0;0;54.081188;12.194316
+cng;DE;SWRAG;Rostock;1;1;0;0;0;54.129709;12.081987
+cng;DE;Avia;Rostock;1;0;0;0;0;54.13225;12.063722
+cng;DE;Esso;Rudolstadt;1;0;0;0;0;50.713722;11.32053
+cng;DE;Aral;Salzbergen;1;0;0;0;0;52.3256;7.4305
+cng;DE;Hoyer;Salzwedel;1;0;0;0;0;52.858799;11.165493
+cng;DE;Aral;Sankt Ingbert;0;0;0;0;0;49.2757;7.110461
+cng;DE;TotalEnergies;Satteldorf;1;0;0;0;0;49.18164;10.06925
+cng;DE;Aral;Schkeuditz;0;0;0;0;0;51.39954;12.190603
+cng;DE;Star;Schmalkalden;1;0;0;0;0;50.717695;10.430941
+cng;DE;Aral;Schnaittach;0;0;0;0;0;49.566969;11.32713
+cng;DE;Team;Schneverdingen;1;0;0;0;0;53.119698;9.785376
+cng;DE;bft;Schramberg;1;0;0;0;0;48.231634;8.382268
+cng;DE;Globus;Schwandorf;1;1;0;0;0;49.31287;12.147574
+cng;DE;TotalEnergies;Schwedt;1;0;0;0;0;53.071368;14.254083
+cng;DE;bft;Schweinfurt;1;0;0;0;0;50.054389;10.194861
+cng;DE;BRA;Schweinfurt;1;0;0;1;0;50.035601;10.226388
+cng;DE;Shell;Schweitenkirchen;1;1;0;0;0;48.510325;11.581725
+cng;DE;Aral;Schwerte;0;0;0;0;0;51.452788;7.560905
+cng;DE;HEM;Schwäbisch Gmünd;1;0;0;0;0;48.793048;9.860215
+cng;DE;TotalEnergies;Schwäbisch Gmünd;1;0;0;0;0;48.788404;9.763282
+cng;DE;SW Schwäbisch Hall;SW Schwäbisch Hall;1;1;1;0;0;49.112472;9.785472
+cng;DE;Shell;Schwäbisch Hall;1;0;0;0;0;49.105611;9.701147
+cng;DE;eni;Schönebeck;0;0;0;0;0;52.026635;11.706605
+cng;DE;TotalEnergies;Schönefeld;1;0;0;0;0;52.370444;13.527206
+cng;DE;SWSE;Schüttorf;1;1;0;0;0;52.337861;7.247306
+cng;DE;Star;Seesen;1;0;0;0;0;51.899306;10.184833
+cng;DE;TotalEnergies;Senden;1;0;0;0;0;51.904028;7.488602
+cng;DE;Access;Senftenberg;1;0;0;0;0;51.51006;13.98192
+cng;DE;rhenag;Siegburg;1;1;0;1;0;50.79288;7.220903
+cng;DE;SVB;Siegen;1;1;0;0;0;50.872583;8.0125
+cng;DE;Esso;Sindelfingen;1;1;0;0;0;48.707331;9.031628
+cng;DE;MTB;Singen;1;1;0;0;0;47.757639;8.853472
+cng;DE;Avia;Soest;1;0;0;0;0;51.557278;8.144278
+cng;DE;Westfalen;Solingen;1;0;0;0;0;51.158623;7.005573
+cng;DE;Honsel;Sondershausen;1;0;0;0;0;51.364763;10.8452
+cng;DE;SWS;Speyer;1;1;0;0;0;49.30394;8.448185
+cng;DE;Aral;Steinhagen;1;0;0;0;0;52.009167;8.41389
+cng;DE;AviaXPress;Stockach;1;1;0;0;0;47.842584;9.002979
+cng;DE;Aral;Stralsund;1;0;0;0;0;54.276667;13.106722
+cng;DE;TotalEnergies;Stralsund;1;0;0;0;0;54.301048;13.094882
+cng;DE;SW Straubing;SW Straubing;1;1;0;0;0;48.864613;12.588156
+cng;DE;Elan;Strausberg;1;0;0;0;0;52.561001;13.866167
+cng;DE;Avia;Stuttgart;1;1;0;0;0;48.781455;9.229761
+cng;DE;biogeen Mobility;Stuttgart;1;1;0;0;0;48.788613;9.218853
+cng;DE;Aral;Stuttgart;0;0;0;0;0;48.80735;9.193646
+cng;DE;JET;Stuttgart;1;0;0;0;0;48.724186;9.119591
+cng;DE;VERBIO;Sulzbach-Rosenberg;1;1;0;0;0;49.494099;11.775078
+cng;DE;Ohra Energie;Sömmerda;1;1;0;0;0;51.166543;11.185781
+cng;DE;SW Tauberfranken;Tauberbischofsheim;1;1;0;0;0;49.622777;9.668083
+cng;DE;TotalEnergies;Taunusstein;1;0;0;0;0;50.152844;8.180468
+cng;DE;TotalEnergies;Teterow;1;0;0;0;0;53.78587;12.57046
+cng;DE;TotalEnergies;Tiefenort;1;0;0;0;0;50.82598;10.159735
+cng;DE;HEM;Torgelow;1;0;0;0;0;53.63716;14.02992
+cng;DE;Tankpoint;Traunreut;1;0;0;0;0;47.962229;12.610749
+cng;DE;Avia;Treuchtlingen;1;0;0;0;0;48.94267;10.91469
+cng;DE;TotalEnergies;Trier;1;0;0;0;0;49.771685;6.657803
+cng;DE;Mundorf Tank;Troisdorf;1;0;0;0;0;50.819083;7.1135
+cng;DE;Markant;Tönisvorst;1;0;0;0;0;51.326722;6.471091
+cng;DE;Aral;Tübingen;0;0;0;0;0;48.512939;9.073593
+cng;DE;Rolande;Ulm;0;1;0;0;0;48.359498;9.929748
+cng;DE;Allguth;Unterföhring;1;0;0;0;0;48.18028;11.65366
+cng;DE;Die Energie;Veitshöchheim;1;1;0;0;0;49.827361;9.891167
+cng;DE;Aral;Verden;0;0;0;0;0;52.947857;9.233174
+cng;DE;Westfalen;Vlotho;0;0;0;0;0;52.157917;8.844278
+cng;DE;Avia;Vreden;1;0;0;0;0;52.034093;6.841553
+cng;DE;TotalEnergies;Vöhringen;1;0;0;0;0;48.34335;8.663213
+cng;DE;Esso;Vöhringen;1;0;0;0;0;48.285389;10.116333
+cng;DE;TotalEnergies;Waiblingen;1;0;0;0;0;48.85275;9.297222
+cng;DE;E-Center;Waldshut-Tiengen;1;1;0;0;0;47.627417;8.262889
+cng;DE;Esso;Walldorf;1;0;0;0;0;49.293736;8.655309
+cng;DE;bft;Wangen;1;0;0;0;0;47.689382;9.82808
+cng;DE;Team;Waren;1;0;0;0;0;53.519252;12.714493
+cng;DE;Avia;Warendorf;1;0;0;0;0;51.94985;8.001474
+cng;DE;Shell;Wattenheim;1;0;0;0;1;49.527315;8.073407
+cng;DE;STAWM;Weilheim;1;1;0;0;0;47.852207;11.143374
+cng;DE;SWW;Weinheim;1;1;0;0;0;49.549917;8.656194
+cng;DE;TotalEnergies;Weißenfels;1;0;0;0;0;51.268806;11.978274
+cng;DE;Aral;Weißenfels;0;0;0;0;0;51.187944;11.990056
+cng;DE;Freie;Welle;1;0;0;0;0;53.241622;9.802089
+cng;DE;Star;Werder;1;0;0;0;0;52.347609;12.902078
+cng;DE;TotalEnergies;Werder Plötzin;1;0;0;0;0;52.39101;12.84488
+cng;DE;Rubart;Werl;1;0;0;0;0;51.558819;7.910289
+cng;DE;bft;Wermelskirchen;1;0;0;0;0;51.143494;7.224165
+cng;DE;TotalEnergies;Werneck;1;0;0;0;0;50.003333;10.117778
+cng;DE;SW Wernigerode;SW Wernigerode;1;1;0;0;0;51.84139;10.781069
+cng;DE;Aral;Wesel;0;0;0;0;0;51.664332;6.609917
+cng;DE;Shell;Westerrönfeld;1;0;0;0;0;54.27863;9.654391
+cng;DE;Jäger;Wiehl;1;0;0;0;0;50.96025;7.53475
+cng;DE;Aral;Wiesbaden;0;0;0;0;0;50.062068;8.252555
+cng;DE;TotalEnergies;Wiesbaden;1;0;0;0;0;50.047556;8.231278
+cng;DE;TotalEnergies;Wilhelmshaven;1;1;0;0;0;53.559348;8.103248
+cng;DE;Aral;Willich;1;0;0;0;0;51.273361;6.555139
+cng;DE;TotalEnergies;Wilnsdorf;1;0;0;0;0;50.816333;8.08675
+cng;DE;Aral;Winsen;0;0;0;0;0;53.339417;10.219389
+cng;DE;BEW;Wipperfürth;1;1;0;0;0;51.114333;7.406653
+cng;DE;SW Wismar;SW Wismar;1;0;1;0;0;53.895646;11.439481
+cng;DE;Team;Wismar;1;0;0;0;0;53.87877;11.45459
+cng;DE;SW Wissen;SW Wissen;1;1;0;0;0;50.781721;7.730393
+cng;DE;Aral;Witten;0;0;0;0;0;51.449975;7.325702
+cng;DE;SW Wittenberge;SW Wittenberge;1;1;0;0;0;53.017778;11.743083
+cng;DE;Aral;Wittstock;1;0;0;0;0;53.160194;12.467083
+cng;DE;Aral;Wolfenbüttel;0;0;0;0;0;52.163271;10.552928
+cng;DE;esb;Wolfratshausen;1;1;0;1;0;47.90425;11.422417
+cng;DE;Aral;Wuppertal;0;0;0;0;0;51.284721;7.208318
+cng;DE;Aral;Wölfersheim;1;0;0;0;0;50.402444;8.819611
+cng;DE;TotalEnergies;Wörth;1;0;0;0;0;49.783378;9.169233
+cng;DE;Aral;Wülfrath;0;0;0;0;0;51.285056;7.047306
+cng;DE;Shell;Zeitz;1;0;0;0;0;51.055001;12.110472
+cng;DE;E-MS;Zerbst;0;0;0;0;0;51.951326;12.092119
+cng;DE;Orlen;Zeulenroda;1;0;0;0;0;50.661001;11.996583
+cng;DE;Globus;Zweibrücken;1;1;0;0;0;49.24876;7.350967
+cng;DE;ZEV;Zwickau;1;1;0;0;0;50.704579;12.480334
+cng;DE;VERBIO;Zörbig;1;1;0;0;0;51.631364;12.141524
+cng;DE;Edi;Öhringen;1;1;0;0;0;49.198577;9.4759
+cng;DE;HEM;Überlingen;1;0;0;0;0;47.774321;9.191656
+cng;BE;Dats24;Aalst;0;1;0;0;0;50.932998;4.054316
+cng;BE;ELVA;Aalst;0;1;0;0;0;50.909921;4.043113
+cng;BE;TotalEnergies;Aalter;0;1;0;0;0;51.104745;3.43179
+cng;BE;Dats24;Amay;0;1;0;0;0;50.557353;5.305734
+cng;BE;Dats24;Anderlecht;0;1;0;0;0;50.827845;4.30238
+cng;BE;Q8;Antwerpen;0;0;0;0;0;51.219836;4.37254
+cng;BE;Esso;Antwerpen;0;1;0;0;0;51.192715;4.37021
+cng;BE;TotalEnergies;Antwerpen;0;0;0;0;0;51.191197;4.369009
+cng;BE;Q8;Antwerpen;0;0;0;0;0;51.242825;4.450004
+cng;BE;Dats24;Antwerpen;0;1;0;0;0;51.257001;4.416545
+cng;BE;G&V;Antwerpen;0;0;0;0;0;51.303441;4.332106
+cng;BE;Greenpoint;Anzegem;0;1;0;0;0;50.843207;3.42618
+cng;BE;Enora;Arel;0;1;0;0;0;49.67578;5.784293
+cng;BE;G&V;Asse;0;0;0;0;0;50.892186;4.252188
+cng;BE;Q8;Bastnach;0;0;0;0;0;49.997166;5.717923
+cng;BE;TotalEnergies;Beernem;0;0;0;0;0;51.122876;3.326066
+cng;BE;Dats24;Beloeil;0;1;0;0;0;50.512417;3.679337
+cng;BE;Dats24;Beringen;0;1;0;0;0;51.076576;5.219913
+cng;BE;Esso;Beveren;0;0;0;0;0;51.215863;4.265982
+cng;BE;TotalEnergies;Beveren;0;1;0;0;0;51.259527;4.263734
+cng;BE;Dats24;Beyne-Heusay;0;1;0;0;0;50.622072;5.653929
+cng;BE;Dats24;Bilzen;0;1;0;0;0;50.859527;5.500971
+cng;BE;Dats24;Binche;0;1;0;0;0;50.42161;4.171396
+cng;BE;Dats24;Blankenberge;0;1;0;0;0;51.302367;3.143791
+cng;BE;Dats24;Boom;0;1;0;0;0;51.094771;4.367878
+cng;BE;Maes;Bornem;0;0;0;0;0;51.088254;4.275575
+cng;BE;Dats24;Brecht;0;1;0;0;0;51.356991;4.640902
+cng;BE;Dats24;Bree;0;1;0;0;0;51.138714;5.607944
+cng;BE;Enora;Brügge;0;1;0;0;0;51.215365;3.200625
+cng;BE;TotalEnergies;Brüssel;0;0;0;0;0;50.875786;4.364411
+cng;BE;Esso;Charleroi;0;0;0;0;0;50.384775;4.464069
+cng;BE;Dats24;Charleroi;0;1;0;0;0;50.459674;4.435896
+cng;BE;Shell;Charleroi;0;1;0;0;0;50.384197;4.402209
+cng;BE;Dats24;Courcelles;0;1;0;0;0;50.456233;4.372582
+cng;BE;Dats24;Deinze;0;1;0;0;0;50.981033;3.546706
+cng;BE;Dats24;Destelbergen;0;1;0;0;0;51.059633;3.825309
+cng;BE;Dats24;Diest;0;1;0;0;0;50.976822;5.044286
+cng;BE;Dats24;Dilbeek;0;1;0;0;0;50.843042;4.250425
+cng;BE;Enora;Doornik;0;1;0;0;0;50.616881;3.317256
+cng;BE;Esso;Doornik;0;1;0;0;0;50.613631;3.381028
+cng;BE;Dats24;Doornik;0;1;0;0;0;50.604748;3.412624
+cng;BE;Dats24;Dour;0;1;0;0;0;50.396714;3.769239
+cng;BE;Dats24;Eeklo;0;1;0;0;0;51.194324;3.544886
+cng;BE;TotalEnergies;Eindhout;0;0;0;0;0;51.111112;5.021606
+cng;BE;Dats24;Eupen;0;1;0;0;0;50.63735;6.019637
+cng;BE;Esso;Fleurus;0;0;0;0;0;50.463613;4.533904
+cng;BE;Dats24;Frameries;0;1;0;0;0;50.40808;3.888326
+cng;BE;Dats24;Geel;0;1;0;0;0;51.145573;4.955237
+cng;BE;Biogaz du Haut Geer;Biogaz du Haut Geer;0;1;0;0;0;50.674368;5.180547
+cng;BE;Dats24;Genepiën;0;1;0;0;0;50.614784;4.45342
+cng;BE;Bruno;Genk;0;0;0;0;0;50.996958;5.475204
+cng;BE;Dats24;Gent;0;1;0;0;0;51.086339;3.72528
+cng;BE;Esso;Gent;0;1;0;0;0;51.053941;3.698255
+cng;BE;TotalEnergies;Gent;0;0;0;0;0;51.079827;3.732448
+cng;BE;Q8;Gent;0;0;0;0;0;51.022739;3.697975
+cng;BE;Dats24;Grimbergen;0;1;0;0;0;50.926944;4.39113
+cng;BE;Dats24;Grobbendonk;0;1;0;0;0;51.173837;4.751458
+cng;BE;G&V;Habay;0;1;0;0;0;49.703996;5.626978
+cng;BE;TotalEnergies;Halen;0;0;0;0;0;50.9625;5.082034
+cng;BE;Dats24;Halle;0;1;0;0;0;50.753117;4.252662
+cng;BE;imog;Harelbeke;0;0;0;0;0;50.844795;3.294155
+cng;BE;Dats24;Hasselt;0;1;0;0;0;50.943829;5.349578
+cng;BE;TotalEnergies;Hasselt;0;0;0;0;0;50.964511;5.356694
+cng;BE;Dats24;Hechtel-Eksel;0;1;0;0;0;51.125687;5.371392
+cng;BE;Dats24;Herstal;0;1;0;0;0;50.659325;5.628721
+cng;BE;Dats24;Heusden-Zolder;0;1;0;0;0;51.016035;5.289959
+cng;BE;BioCNG Tankstelle (Automat);Houffalize;1;1;0;0;0;50.144275;5.796565
+cng;BE;Q8;Houthalen-Helchteren;0;0;0;0;0;51.022178;5.373621
+cng;BE;Dats24;Huy;0;1;0;0;0;50.522247;5.217654
+cng;BE;Enora;Ibingen;0;1;0;0;0;49.549769;5.815814
+cng;BE;Dats24;Izegem;0;1;0;0;0;50.915307;3.197621
+cng;BE;Dats24;Jemeppe-sur-Sambre;0;1;0;0;0;50.454933;4.643143
+cng;BE;Q8;Jurbise;0;1;0;0;0;50.504041;3.931058
+cng;BE;Dats24;Kampenhout;0;1;0;0;0;50.958522;4.588069
+cng;BE;Dats24;Knokke-Heist;0;1;0;0;0;51.328411;3.295199
+cng;BE;Dats24;Kontich;0;1;0;0;0;51.125259;4.451668
+cng;BE;Q8;Kortrijk;0;0;0;0;0;50.827038;3.24134
+cng;BE;TotalEnergies;Kortrijk;0;0;0;0;0;50.844007;3.267659
+cng;BE;Esso;Kortrijk;0;0;0;0;0;50.838244;3.285315
+cng;BE;Dats24;La Louvière;0;1;0;0;0;50.490521;4.148814
+cng;BE;TotalEnergies;Le Rœulx;0;0;0;0;0;50.498642;4.123362
+cng;BE;Enora;Leuze-en-Hainaut;0;0;0;0;0;50.594327;3.637415
+cng;BE;Dats24;Lier;0;1;0;0;0;51.146444;4.540752
+cng;BE;Dats24;Lochristi;0;1;0;0;0;51.091452;3.816116
+cng;BE;Dats24;Lokeren;0;1;0;0;0;51.109916;3.966499
+cng;BE;TotalEnergies;Lommel;0;0;0;0;0;51.215579;5.260379
+cng;BE;Maes;Londerzeel;0;0;0;0;0;51.011351;4.32479
+cng;BE;Dats24;Lovendegem;0;1;0;0;0;51.102132;3.631357
+cng;BE;Total;Loverval;0;0;0;0;0;50.370434;4.467602
+cng;BE;Dats24;Löwen;0;1;0;0;0;50.871476;4.684625
+cng;BE;Dats24;Löwen;0;1;0;0;0;50.849611;4.722791
+cng;BE;Esso;Löwen;0;0;0;0;1;50.853669;4.658341
+cng;BE;Esso;Löwen;0;0;0;0;1;50.852599;4.658402
+cng;BE;Dats24;Lüttich;0;1;0;0;0;50.606594;5.612263
+cng;BE;Dats24;Maasmechelen;0;1;0;0;0;50.941012;5.692443
+cng;BE;TotalEnergies;Maasmechelen;0;0;0;0;0;50.95679;5.694029
+cng;BE;Dats24;Machelen;0;1;0;0;0;50.896084;4.431769
+cng;BE;Esso;Machelen;0;0;0;0;0;50.880701;4.450024
+cng;BE;Dats24;Maldegem;0;1;0;0;0;51.203808;3.452876
+cng;BE;Dats24;Malle;0;1;0;0;0;51.297887;4.702371
+cng;BE;Enora;Marche-en-Famenne;0;1;0;0;0;50.238186;5.292233
+cng;BE;Dats24;Mechelen;0;1;0;0;0;51.044841;4.477522
+cng;BE;Dats24;Mechelen;0;1;0;0;0;51.00636;4.463998
+cng;BE;Dats24;Melle;0;1;0;0;0;51.022639;3.77491
+cng;BE;TotalEnergies;Menen;0;0;1;0;0;50.774732;3.187568
+cng;BE;Dats24;Menen;0;1;0;0;0;50.804491;3.095936
+cng;BE;Dats24;Middelkerke;0;1;0;0;0;51.193381;2.840201
+cng;BE;Esso;Moeskroen;0;1;0;0;0;50.743429;3.233494
+cng;BE;TotalEnergies;Mons;0;0;0;0;0;50.453303;3.92773
+cng;BE;Shell;Mons;0;1;0;0;0;50.449227;3.905341
+cng;BE;Dats24;Morlanwelz;0;1;0;0;0;50.456799;4.234499
+cng;BE;TotalEnergies;Namur;0;0;0;0;0;50.46347;4.887647
+cng;BE;Dats24;Namur;0;1;0;0;0;50.450401;4.834862
+cng;BE;Dats24;Namur;0;1;0;0;0;50.436763;4.912348
+cng;BE;Q8;Namur;0;0;0;0;0;50.420876;4.937042
+cng;BE;Enora;Neufchâteau;0;1;0;0;0;49.870305;5.480485
+cng;BE;Dats24;Ninove;0;1;0;0;0;50.838921;4.01348
+cng;BE;Esso;Nivelles;0;0;0;0;0;50.588962;4.311852
+cng;BE;Dats24;Opwijk;0;1;0;0;0;50.961237;4.203209
+cng;BE;Dats24;Overijse;0;1;0;0;0;50.783544;4.505849
+cng;BE;Dats24;Pecq;0;1;0;0;0;50.676279;3.339703
+cng;BE;Esso;Péruwelz;0;1;0;0;0;50.528404;3.604797
+cng;BE;Dats24;Quaregnon;0;1;0;0;0;50.439061;3.844346
+cng;BE;Q8;Ranst;0;0;0;0;1;51.209853;4.547066
+cng;BE;Dats24;Roeselare;0;1;0;0;0;50.957722;3.132105
+cng;BE;Dats24;Rotselaar;0;1;0;0;0;50.946147;4.748835
+cng;BE;Maes;Rumst;0;1;0;0;0;51.089814;4.45135
+cng;BE;Dats24;Schoten;0;1;0;0;0;51.267244;4.513689
+cng;BE;Dats24;Seraing;0;1;0;0;0;50.607703;5.515769
+cng;BE;Dats24;Sint-Niklaas;0;1;0;0;0;51.17626;4.190331
+cng;BE;Dats24;Sint-Pieters-Leeuw;0;1;0;0;0;50.796688;4.286108
+cng;BE;Dats24;Sint-Truiden;0;1;0;0;0;50.79778;5.212334
+cng;BE;Esso;Soignies;0;1;0;0;0;50.587528;4.088917
+cng;BE;Esso;Tessenderlo;0;0;0;0;0;51.078063;5.146746
+cng;BE;Dats24;Thuin;0;1;0;0;0;50.339014;4.311023
+cng;BE;Dats24;Tielt;0;1;0;0;0;50.99693;3.306411
+cng;BE;Dats24;Tielt-Winge;0;1;0;0;0;50.904618;4.861395
+cng;BE;Dats24;Tienen;0;1;0;0;0;50.815943;4.909676
+cng;BE;Dats24;Tongern;0;1;0;0;0;50.790018;5.514545
+cng;BE;Dats24;Torhout;0;1;0;0;0;51.082432;3.11591
+cng;BE;Esso;Turnhout;0;1;0;0;0;51.312517;4.923334
+cng;BE;Romac;Veurne;0;0;0;0;0;51.064316;2.677849
+cng;BE;TotalEnergies;Vilvoorde;0;0;0;0;0;50.91906;4.425736
+cng;BE;Roche Madou;Viroinval;0;1;1;0;0;50.087182;4.643043
+cng;BE;Devagro;Waregem;0;0;1;0;0;50.897355;3.372617
+cng;BE;Dats24;Wetteren;0;1;0;0;0;50.984379;3.844305
+cng;BE;Dats24;Wevelgem;0;1;0;0;0;50.812399;3.195819
+cng;BE;Esso;Willebroek;0;0;0;0;0;51.04724;4.399765
+cng;BE;Q8;Wilrijk;0;0;0;0;0;51.173635;4.404404
+cng;BE;Dats24;Wilrijk;0;1;0;0;0;51.14959;4.380615
+cng;BE;TotalEnergies;Winksele;0;0;0;0;0;50.886223;4.66832
+cng;BE;Dats24;Wommelgem;0;1;0;0;0;51.207403;4.490073
+cng;BE;Esso;Wommelgem;0;1;0;0;0;51.196297;4.511875
+cng;BE;GOW;Ypern;0;1;0;0;0;50.87297;2.878978
+cng;BE;Dats24;Ypern;0;1;0;0;0;50.839881;2.888551
+cng;BE;Dats24;Zaventem;0;1;0;0;0;50.871694;4.476968
+cng;BE;Q8;Zaventem;0;0;0;0;0;50.873468;4.486424
+cng;BE;Gabriëls;Zottegem;0;1;0;0;0;50.874802;3.838444
+cng;BE;imog;Zwevegem;0;1;0;0;0;50.763805;3.389938
+cng;FR;Multi Energies;Abbeville;1;1;0;0;0;50.127104;1.833224
+cng;FR;molgas;Aire-sur-la-Lys;0;1;1;0;0;50.66181;2.395864
+cng;FR;engie;Aix-en-Provence;0;1;0;0;0;43.490196;5.367886
+cng;FR;engie;Allonnes;0;1;0;0;0;47.945586;0.156284
+cng;FR;Avia;Ancenis;0;0;0;0;0;47.397522;-1.189487
+cng;FR;RN7 NRJ;Andancette;1;1;0;0;0;45.241513;4.819483
+cng;FR;TotalEnergies;Andrézieux-Bouthéon;0;0;0;0;0;45.524372;4.295965
+cng;FR;GEG;Apprieu;0;1;0;0;0;45.383651;5.477563
+cng;FR;molgas;Argancy;0;1;1;0;0;49.209438;6.207915
+cng;FR;molgas;Argœuves;0;1;1;0;0;49.93453;2.256963
+cng;FR;Endesa;Aron;1;1;0;0;0;48.300724;-0.586703
+cng;FR;Agriopale;Arques;0;1;0;0;0;50.730158;2.331821
+cng;FR;molgas;Aulnay-sous-Bois;0;0;1;0;0;48.970803;2.494053
+cng;FR;Gaz‘Up;Auxerre;0;1;0;0;0;47.822365;3.579409
+cng;FR;Gaz‘Up;Avallon;0;1;0;0;0;47.507212;3.9899
+cng;FR;TotalEnergies;Avignon;1;0;0;0;0;43.906022;4.889791
+cng;FR;Seven;Ayguesvives;0;1;1;0;0;43.450146;1.592319
+cng;FR;engie;Bassens;0;1;0;0;0;44.896396;-0.530249
+cng;FR;GEG;Belleville-en-Beaujolais;0;1;0;0;0;46.098463;4.728753
+cng;FR;molgas;Beuzeville;0;1;1;0;0;49.341727;0.360339
+cng;FR;engie;Beychac-et-Caillau;0;1;0;0;0;44.882392;-0.369688
+cng;FR;AS24;Blois;0;1;1;0;0;47.612789;1.332113
+cng;FR;molgas;Blyes;0;1;1;0;0;45.84163;5.263307
+cng;FR;engie;Bondoufle;0;1;0;0;0;48.601067;2.365881
+cng;FR;Endesa;Bonneuil-sur-Marne;1;1;0;0;0;48.774512;2.495373
+cng;FR;engie;Boulazac;0;1;0;0;0;45.148819;0.799921
+cng;FR;Gaz‘Up;Boulazac;0;1;0;0;0;45.183547;0.777312
+cng;FR;Drôme Energies;Bourg-de-Péage;1;1;0;0;0;45.00594;5.037393
+cng;FR;engie;Bourges;0;1;0;0;0;47.044671;2.351078
+cng;FR;TÉMOB;Boé;1;1;0;0;0;44.185169;0.637979
+cng;FR;Gaz‘Up;Brebières;0;1;0;0;0;50.342826;3.037276
+cng;FR;GAZ d’ICI;Breuvannes-en-Bassigny;1;0;0;1;0;48.080763;5.659316
+cng;FR;bm gnv;Bédée;0;0;0;0;0;48.187059;-1.937367
+cng;FR;AS24;Carbon-Blanc;0;1;1;0;0;44.914098;-0.487395
+cng;FR;SDEM50;Carentan-les-Marais;1;1;0;0;0;49.303257;-1.211303
+cng;FR;Gaz‘Up;Carpiquet;0;1;0;0;0;49.196221;-0.458819
+cng;FR;engie;Carquefou;0;1;0;0;0;47.281744;-1.475827
+cng;FR;Gaz‘Up;Castets;0;1;0;0;0;43.871539;-1.143539
+cng;FR;bm gnv;Caudan;0;1;0;0;0;47.783249;-3.341472
+cng;FR;molgas;Cestas;0;1;1;0;0;44.713804;-0.729211
+cng;FR;Vendée Energie;Challans;1;1;0;0;0;46.851569;-1.848298
+cng;FR;engie;Champigneulles;0;1;0;0;0;48.74253;6.17427
+cng;FR;engie;Champigny-sur-Marne;0;1;0;0;0;48.81266;2.52932
+cng;FR;Endesa;Changé;1;1;0;0;0;48.084597;-0.815514
+cng;FR;bm gnv;Chartres-de-Bretagne;0;1;0;0;0;48.051394;-1.715978
+cng;FR;AS24;Chassieu;1;1;1;0;0;45.723121;4.97038
+cng;FR;engie;Chelles;0;1;1;0;0;48.892541;2.598547
+cng;FR;molgas;Chemaudin;0;1;1;0;0;47.22931;5.890554
+cng;FR;engie;Chevilly-Larue;0;1;0;0;0;48.758928;2.363979
+cng;FR;Avia;Cholet;0;1;0;0;0;47.042241;-0.916433
+cng;FR;evergaz;Château-Gontier-sur-Mayenne;0;1;0;0;0;47.838188;-0.684904
+cng;FR;bm gnv;Châtelaudren-Plouagat;0;1;0;0;0;48.532259;-2.973798
+cng;FR;TÉMOB;Châtellerault;1;0;1;0;0;46.828909;0.537962
+cng;FR;TÉMOB;Châtillon-sur-Thouet;1;1;0;0;0;46.67112;-0.257338
+cng;FR;engie;Châtres;0;1;0;0;0;48.727564;2.816902
+cng;FR;engie;Clermont-Ferrand;0;0;1;0;0;45.802466;3.132752
+cng;FR;engie;Clermont-Ferrand;0;1;0;0;0;45.762112;3.151513
+cng;FR;engie;Combs-la-Ville;0;1;1;0;0;48.658305;2.551246
+cng;FR;Gaz‘Up;Compans;0;1;0;0;0;48.990959;2.647827
+cng;FR;engie;Corbas;0;1;0;0;0;45.669639;4.923525
+cng;FR;molgas;Crépy-en-Valois;0;1;1;0;0;49.229128;2.908716
+cng;FR;Confluent;Damazan;1;1;0;0;0;44.290819;0.267983
+cng;FR;engie;Dardilly;0;1;0;0;1;45.803294;4.770237
+cng;FR;Gaz‘Up;Digoin;0;1;0;0;0;46.481352;4.00465
+cng;FR;PIZZORNO;Draguignan;0;1;1;0;0;43.520592;6.465715
+cng;FR;molgas;Duttlenheim;0;1;0;0;0;48.543595;7.573684
+cng;FR;Gaz‘Up;Dünkirchen;0;0;0;0;0;50.980184;2.217149
+cng;FR;molgas;Fauverney;0;1;1;0;0;47.268759;5.135737
+cng;FR;molgas;Fleville-devant-Nancy;0;1;1;0;0;48.615774;6.210394
+cng;FR;Vendée Energie;Fontenay-le-Comte;1;1;0;0;0;46.44495;-0.810573
+cng;FR;Avia;Frétin;0;1;0;0;0;50.574634;3.140366
+cng;FR;engie;Fuveau;0;1;0;0;0;43.46583;5.605205
+cng;FR;engie;Garons;0;1;0;0;0;43.754409;4.43577
+cng;FR;molgas;Gauchy;0;1;1;0;0;49.818892;3.301417
+cng;FR;ÉS;Geispolsheim;0;1;1;0;0;48.521201;7.693385
+cng;FR;engie;Gennevilliers;1;1;0;0;0;48.940758;2.297045
+cng;FR;TotalEnergies;Gennevilliers;1;1;0;0;0;48.936924;2.276514
+cng;FR;TotalEnergies;Glisy;1;0;0;0;0;49.869287;2.379902
+cng;FR;Avia;Gonfreville-l'Orcher;0;1;1;0;0;49.485916;0.206668
+cng;FR;Seven;Graulhet;0;1;1;0;0;43.763312;1.976276
+cng;FR;GEG;Grenoble;0;1;0;0;0;45.19403;5.709578
+cng;FR;GEG;Grenoble;0;1;1;1;0;45.174621;5.723671
+cng;FR;engie;Grenoble;0;1;0;0;0;45.173425;5.717038
+cng;FR;bm gnv;Guipavas;1;0;0;0;0;48.433635;-4.435439
+cng;FR;engie;Hauconcourt;0;1;0;0;0;49.222437;6.17845
+cng;FR;TotalEnergies;Hénin-Beaumont;1;0;0;0;0;50.458293;2.976016
+cng;FR;ecowgaz;Ibos;0;1;0;0;0;43.219441;0.025875
+cng;FR;Vendée Energie;La Chaize-le-Vicomte;1;1;0;0;0;46.668472;-1.339876
+cng;FR;engie;La Courneuve;1;1;0;0;0;48.928793;2.416671
+cng;FR;engie;La Courneuve;0;1;0;0;0;48.935406;2.410828
+cng;FR;K9;La Garde;0;0;0;0;0;43.144915;6.038709
+cng;FR;engie;La Palme;0;0;0;0;1;42.950805;2.968496
+cng;FR;Vendée Energie;La Roche-sur-Yon;1;1;0;0;0;46.703197;-1.428788
+cng;FR;AviaXPress;La Rochelle;0;1;0;0;0;46.172512;-1.214416
+cng;FR;GEG;La Tronche;0;1;0;0;0;45.1998;5.759285
+cng;FR;AS24;La Veuve;1;1;1;0;0;49.037209;4.322306
+cng;FR;bm gnv;Landivisiau;1;0;0;0;0;48.518182;-4.044882
+cng;FR;Gaz‘Up;Langon;0;1;0;0;0;44.539596;-0.267273
+cng;FR;bm gnv;Lannion;1;1;0;0;0;48.757397;-3.460435
+cng;FR;TotalEnergies;Laon;1;1;0;0;0;49.570995;3.65434
+cng;FR;engie;Laronxe;0;1;0;0;0;48.540768;6.578615
+cng;FR;Gaz‘Up;Le Coudray-Montceaux;0;1;0;0;0;48.567747;2.465044
+cng;FR;AS24;Le Plessis-Pâté;1;1;1;0;0;48.619267;2.331706
+cng;FR;GEG;Le Pont-de-Claix;0;0;0;0;0;45.114952;5.705769
+cng;FR;molgas;Le Pouzin;0;1;0;0;0;44.759531;4.761065
+cng;FR;engie;Le Rheu;0;1;0;0;0;48.087878;-1.782939
+cng;FR;molgas;Lens;0;1;1;0;0;50.453763;2.820865
+cng;FR;Vendée Energie;Les Essarts en Bocage;0;1;0;0;0;46.782204;-1.17979
+cng;FR;Vendée Energie;Les Herbiers;1;1;0;0;0;46.902564;-1.044243
+cng;FR;Vendée Energie;Les Sables-d'Olonne;1;1;0;0;0;46.51693;-1.753055
+cng;FR;TotalEnergies;Les Sorinières;1;0;0;0;0;47.160026;-1.512322
+cng;FR;engie;Lille;1;1;0;1;0;50.627377;3.030504
+cng;FR;molgas;Lille;0;1;1;0;0;50.581973;3.107786
+cng;FR;AS24;Limay;1;1;1;0;0;48.983903;1.742577
+cng;FR;Avia;Limoges;0;0;0;0;0;45.90795;1.292556
+cng;FR;engie;Lyon;0;1;0;0;0;45.725845;4.838999
+cng;FR;GNVAIR;Mandres-sur-Vair;1;1;0;0;0;48.24199;5.891756
+cng;FR;C4T;Marck;0;0;0;0;0;50.941906;1.934023
+cng;FR;engie;Marcoussis;1;1;0;0;0;48.66439;2.211148
+cng;FR;Endesa;Marolles-sur-Seine;1;1;0;0;0;48.381493;3.027699
+cng;FR;Mauges;Mauges-sur-Loire;1;0;0;0;0;47.344771;-0.861724
+cng;FR;TotalEnergies;Metz;1;0;0;0;0;49.129479;6.165115
+cng;FR;TotalEnergies;Meylan;1;0;0;0;0;45.197567;5.780632
+cng;FR;engie;Meyzieu;0;1;1;0;0;45.76988;5.030629
+cng;FR;Gaz‘Up;Migné-Auxances;0;1;0;0;0;46.610635;0.315817
+cng;FR;bm gnv;Miniac-Morvan;0;1;0;0;0;48.535941;-1.915815
+cng;FR;AS24;Mitry-Mory;1;1;1;0;0;48.979177;2.633714
+cng;FR;engie;Mitry-Mory;0;1;0;0;0;48.980076;2.627606
+cng;FR;engie;Mondeville;0;1;0;0;0;49.156729;-0.302966
+cng;FR;Avia;Montbartier;0;1;0;0;0;43.914964;1.308154
+cng;FR;Robert Forez Energie;Montbrison;1;1;0;0;0;45.594387;4.094928
+cng;FR;bm gnv;Montgermont;0;1;0;0;0;48.147829;-1.704298
+cng;FR;engie;Montpellier;0;1;0;0;0;43.58153;3.871135
+cng;FR;Avia;Montélimar;0;1;0;0;0;44.578393;4.744442
+cng;FR;molgas;Monéteau;0;1;1;0;0;47.852082;3.550513
+cng;FR;Altens;Moret-Loing-et-Orvanne;1;1;0;0;0;48.367609;2.840705
+cng;FR;engie;Morsbach;0;1;0;0;0;49.17439;6.863194
+cng;FR;Agribiométhane;Mortagne-sur-Sèvre;1;1;0;0;0;46.990773;-0.931101
+cng;FR;Eonnett;Moréac;1;1;0;0;0;47.903368;-2.796735
+cng;FR;molgas;Mâcon;0;1;1;0;0;46.364994;4.843999
+cng;FR;engie;Nanterre;0;1;1;0;0;48.900937;2.188629
+cng;FR;AS24;Nantes;0;1;1;0;0;47.263509;-1.508719
+cng;FR;Avia;Niederhergheim;0;1;0;0;1;47.994579;7.380128
+cng;FR;AS24;Niort;1;1;1;0;0;46.348278;-0.310583
+cng;FR;Seven;Nizza;0;1;1;0;0;43.67015;7.207271
+cng;FR;TotalEnergies;Noisy-le-Grand;1;1;0;0;0;48.837271;2.544817
+cng;FR;engie;Noisy-le-Sec;0;1;1;0;0;48.893013;2.447344
+cng;FR;TÉMOB;Noves;0;1;0;0;0;43.886582;4.894253
+cng;FR;molgas;Noyal-sur-Vilaine;0;1;1;0;0;48.109189;-1.534856
+cng;FR;Bvér;Noyant-Villages;1;0;0;0;0;47.522082;0.008158
+cng;FR;Gaz‘Up;Noé;0;1;0;0;0;43.344281;1.258061
+cng;FR;Gaz‘Up;Olemps;0;1;0;0;0;44.324887;2.567082
+cng;FR;Braley;Onet-le-Château;0;1;1;0;0;44.387236;2.59438
+cng;FR;engie;Orly;0;1;0;0;0;48.752542;2.359692
+cng;FR;TotalEnergies;Orly;1;0;0;0;0;48.750095;2.389436
+cng;FR;engie;Oudalle;0;1;0;0;0;49.478224;0.279475
+cng;FR;Seven;Pamiers;0;1;1;0;0;43.150351;1.603709
+cng;FR;engie;Paris;0;1;1;0;0;48.83351;2.39026
+cng;FR;TotalEnergies;Paris;1;0;0;0;0;48.820629;2.324883
+cng;FR;TotalEnergies;Paris;1;0;0;0;0;48.90025;2.373475
+cng;FR;TotalEnergies;Paris;1;0;0;0;0;48.900815;2.374809
+cng;FR;TotalEnergies;Paris;1;0;0;0;0;48.835;2.266278
+cng;FR;Endesa;Paris;1;1;0;0;0;48.945414;2.359722
+cng;FR;AS24;Parçay-Meslay;1;1;1;0;0;47.451333;0.727077
+cng;FR;Avia;Perpignan;0;1;0;0;0;42.682775;2.852756
+cng;FR;Seven;Perpignan;0;1;1;0;0;42.73417;2.867731
+cng;FR;TotalEnergies;Pessac;1;0;0;0;0;44.780768;-0.649716
+cng;FR;molgas;Ploufragan;0;1;1;0;0;48.467596;-2.793861
+cng;FR;AS24;Poitiers;1;1;1;0;0;46.618136;0.345361
+cng;FR;engie;Poitiers;0;1;0;0;0;46.58184;0.37995
+cng;FR;bm gnv;Pontivy;0;0;0;0;0;48.099322;-2.911349
+cng;FR;Avia;Portet-sur-Garonne;0;1;0;0;0;43.543395;1.400463
+cng;FR;Seven;Pézenas;1;1;1;0;0;43.445936;3.415113
+cng;FR;engie;Quimper;0;1;0;0;0;47.983292;-4.045908
+cng;FR;SDE22;Quévert;0;1;0;0;0;48.448544;-2.095497
+cng;FR;AS24;Reichstett;1;1;1;0;0;48.663743;7.764942
+cng;FR;Avia;Reims;0;1;0;0;0;49.228469;4.08768
+cng;FR;AS24;Reims;1;1;1;0;0;49.224713;4.095912
+cng;FR;AS24;Rennes;1;1;1;0;0;48.099142;-1.625275
+cng;FR;AS24;Rezé;1;1;1;0;0;47.15466;-1.546505
+cng;FR;engie;Riom;0;1;0;0;0;45.909255;3.132208
+cng;FR;SÉM;Roche-la-Molière;1;1;1;0;0;45.415107;4.303224
+cng;FR;engie;Rognac;1;1;0;0;0;43.507768;5.207302
+cng;FR;Drôme Energies;Romans-sur-Isère;0;1;0;0;0;45.047134;5.085655
+cng;FR;engie;Roye;0;1;0;0;0;49.70359;2.765319
+cng;FR;engie;Réau;0;1;0;0;0;48.614193;2.6081
+cng;FR;TotalEnergies;Réau;1;0;1;0;0;48.610437;2.634114
+cng;FR;Endesa;Saargemünd;1;1;0;0;0;49.10741;7.088588
+cng;FR;engie;Saint Priest;1;1;0;0;0;45.712945;4.961817
+cng;FR;Gaz‘Up;Saint Quentin;0;1;0;0;0;49.842655;3.240418
+cng;FR;Seven;Saint-Aunes;0;1;1;0;0;43.650034;3.978364
+cng;FR;engie;Saint-Barthélemy-d'Anjou;0;1;0;0;0;47.481894;-0.49375
+cng;FR;Prodeval;Saint-Denis-sur-Coise;1;0;0;0;0;45.628561;4.410325
+cng;FR;engie;Saint-Herblain;0;1;0;0;0;47.246811;-1.616627
+cng;FR;Gazie;Saint-Laurent-Blangy;1;1;0;0;0;50.296913;2.817188
+cng;FR;Anjou Biognv;Saint-Léger-de-Linières;1;1;0;0;0;47.468012;-0.696423
+cng;FR;bm gnv;Saint-Malo;1;1;0;0;0;48.638079;-1.976076
+cng;FR;bm gnv;Saint-Martin-des-Champs;1;1;0;0;0;48.575919;-3.85265
+cng;FR;Gaz‘Up;Saint-Pantaléon-de-Larche;0;1;0;0;0;45.153379;1.467962
+cng;FR;DeFa;Saint-Pierre-du-Mont;0;1;0;0;0;43.86343;-0.512973
+cng;FR;engie;Saint-Pierre-en-Faucigny;0;1;0;0;0;46.075581;6.377613
+cng;FR;AS24;Saint-Quentin-Fallavier;1;1;1;0;0;45.661832;5.106747
+cng;FR;AS24;Saint-Saturnin;0;1;1;0;0;48.052241;0.183495
+cng;FR;SIMOUV;Saint-Saulve;0;1;0;0;0;50.387751;3.55289
+cng;FR;Seven;Saint-Sulpice-la-Pointe;0;1;1;0;0;43.764452;1.70832
+cng;FR;TÉMOB;Saint-Symphorien;1;1;0;0;0;46.245683;-0.4743
+cng;FR;Endesa;Saint-Vincent-de-Paul;1;1;0;0;0;43.740965;-1.018258
+cng;FR;Endesa;Saint-Vincent-de-Tyrosse;1;1;0;0;0;43.665559;-1.282814
+cng;FR;engie;Saint-Witz;0;1;0;0;0;49.093678;2.528828
+cng;FR;GEG;Saint-Égrève;0;1;0;0;0;45.233699;5.668307
+cng;FR;Endesa;Saint-Étienne;1;1;0;0;0;45.448876;4.416286
+cng;FR;molgas;Sainte-Geneviève-des-Bois;0;1;1;0;0;48.621279;2.335984
+cng;FR;TotalEnergies;Salon-de-Provence;1;0;0;0;0;43.639746;5.04881
+cng;FR;Avia;Saran;0;1;0;0;0;47.951812;1.857035
+cng;FR;SEVE;Saumur;1;1;0;0;0;47.266009;-0.094105
+cng;FR;AS24;Sausheim;0;1;1;0;0;47.778116;7.376779
+cng;FR;engie;Sens;1;1;0;0;0;48.199965;3.316141
+cng;FR;molgas;Servon;0;1;1;0;0;48.706739;2.594204
+cng;FR;Avia;Simandres;0;0;0;0;0;45.610363;4.852917
+cng;FR;engie;Sorigny;0;1;1;0;0;47.257365;0.678964
+cng;FR;TotalEnergies;Sotteville-lès-Rouen;1;0;0;0;0;49.404023;1.110877
+cng;FR;GN Drive;Sotteville-lès-Rouen;0;1;1;0;0;49.402719;1.112704
+cng;FR;TotalEnergies;Straßburg;0;0;0;0;0;48.524499;7.783436
+cng;FR;HAM;Straßburg;1;1;0;0;0;48.52231;7.78289
+cng;FR;engie;Straßburg;0;1;0;0;0;48.598877;7.731717
+cng;FR;PeGaz;Thennelières;1;1;0;0;0;48.296458;4.162832
+cng;FR;engie;Thiverval-Grignon;0;1;1;0;0;48.833774;1.927753
+cng;FR;Agribiométhane;Thouars;1;1;0;0;0;46.993888;-0.19645
+cng;FR;Gaz‘Up;Tilloy-lez-Cambrai;0;1;0;0;0;50.201052;3.204205
+cng;FR;Energ’iV;Tinténiac;0;1;0;0;0;48.305105;-1.820872
+cng;FR;engie;Toulouse;0;1;1;0;0;43.612065;1.42675
+cng;FR;TotalEnergies;Toulouse;0;0;0;0;1;43.600499;1.398538
+cng;FR;Gaz‘Up;Toulouse;0;1;0;0;0;43.643826;1.427357
+cng;FR;AS24;Toulouse;1;1;1;0;0;43.599948;1.308207
+cng;FR;AS24;Trappes;1;1;1;0;0;48.767337;1.987309
+cng;FR;SDE22;Trégueux;0;0;0;0;0;48.467144;-2.783993
+cng;FR;Drôme Energies;Valence;1;1;0;0;0;44.902368;4.868252
+cng;FR;Endesa;Valentigney;1;1;0;0;0;47.48181;6.818079
+cng;FR;Te61;Valframbert;0;0;1;0;0;48.449762;0.098714
+cng;FR;Seven;Vannes;0;1;0;0;0;47.65311;-2.714273
+cng;FR;Endesa;Vars;1;1;0;0;0;45.771185;0.184682
+cng;FR;Endesa;Vaux-le-Penil;1;1;0;0;0;48.540118;2.687407
+cng;FR;molgas;Veauche;1;1;1;0;0;45.544888;4.306581
+cng;FR;Avia;Vendargues;0;1;0;0;0;43.650954;3.947861
+cng;FR;Avia;Vern-sur-Seiche;0;1;0;0;0;48.060756;-1.612482
+cng;FR;Avia;Ville-en-Vermois;0;1;0;0;0;48.6172;6.263763
+cng;FR;AS24;Villefranche-sur-Saône;1;1;1;0;0;45.990211;4.747377
+cng;FR;engie;Villeneuve lès Boulouc;0;1;0;0;0;43.773793;1.380667
+cng;FR;Seven;Villeneuve-lès-Béziers;0;1;1;0;0;43.341518;3.281522
+cng;FR;Seven;Villeneuve-sur-Lot;0;1;1;0;0;44.395832;0.746263
+cng;FR;GNVAIR;Vittel;1;1;0;0;0;48.196072;5.932743
+cng;FR;Endesa;Wissous;1;1;0;0;0;48.722359;2.309511
+cng;FR;Seven;Wormhout;1;1;1;0;0;50.880398;2.492453
+cng;FR;Gaz‘Up;Ytrac;0;1;0;0;0;44.896163;2.395253
+cng;FR;GN Drive;Yzeure;0;1;1;0;0;46.536774;3.362783
+cng;ES;HAM;Abrera;0;0;0;0;0;41.51528;1.89767
+cng;ES;molgas;Alar del Rey;0;0;0;0;0;42.71832;-4.291785
+cng;ES;HAM;Albacete;0;0;0;0;0;39.191155;-2.143091
+cng;ES;Naturgy;Albacete;0;1;0;0;0;39.02951;-1.888336
+cng;ES;molgas;Alcalá de Henares;0;0;0;0;0;40.495214;-3.390222
+cng;ES;Repsol;Alcorcón;0;0;0;0;0;40.34191;-3.805696
+cng;ES;Aliara Energia;Alcorcón;0;1;0;0;0;40.357502;-3.818171
+cng;ES;BP;Alcorcón;0;0;0;0;0;40.357169;-3.83705
+cng;ES;HAM;Alicante;0;0;0;0;0;38.232778;-0.78975
+cng;ES;Naturgy;Alovera;0;1;0;0;0;40.5951;-3.22568
+cng;ES;Naturgy;Antequera;0;1;0;0;0;37.03801;-4.522688
+cng;ES;molgas;Aranda de Duero;0;1;1;0;0;41.654119;-3.700636
+cng;ES;Repsol;Arganda del Rey;0;0;0;0;0;40.309809;-3.480365
+cng;ES;Repsol;Avilés;0;0;0;0;0;43.566479;-5.926719
+cng;ES;Shell;Azuqueca de Henares;0;0;0;0;0;40.566163;-3.251759
+cng;ES;Naturgy;Barcelona;0;1;0;0;0;41.383561;2.189785
+cng;ES;Naturgy;Barcelona;0;1;0;0;0;41.43355;2.202656
+cng;ES;Pietronieves;Barcelona;0;1;0;0;0;41.331855;2.134698
+cng;ES;HAM;Barcelona;0;1;0;0;0;41.327929;2.142356
+cng;ES;HAM;Benavente;0;1;0;0;0;41.998371;-5.658358
+cng;ES;molgas;Bilbao;0;1;0;0;0;43.295877;-3.012372
+cng;ES;HAM;Borriana;0;0;0;0;0;39.866088;-0.120916
+cng;ES;Beroil;Burgos;0;0;0;0;0;42.37659;-3.591056
+cng;ES;TIB;Calvià;0;0;0;0;0;39.525875;2.503481
+cng;ES;HAM;Candasnos;1;1;0;0;1;41.518423;0.042048
+cng;ES;Repsol;Cartagena;0;0;0;0;0;37.596377;-0.966058
+cng;ES;Transportes Monfort;Castellón de la Plana;0;1;0;0;0;39.973983;-0.075412
+cng;ES;molgas;Ciempozuelos;0;1;1;0;0;40.129932;-3.650772
+cng;ES;Naturgy;Ciudad Real;0;1;0;0;0;38.974872;-3.93115
+cng;ES;Galp;Cornellà de Llobregat;0;1;0;0;0;41.34807;2.081806
+cng;ES;Petrocar;Cáceres;0;0;0;0;0;39.455747;-6.367244
+cng;ES;Petrol & Go;Córdoba;0;0;0;0;0;37.904521;-4.759274
+cng;ES;HAM;Dos Hermanas;0;1;0;0;0;37.292238;-5.987879
+cng;ES;Naturgy;Dos Hermanas;0;1;0;0;0;37.281424;-5.938022
+cng;ES;Galp;El Bruc;0;0;0;0;0;41.567726;1.801133
+cng;ES;Repsol;Fontioso;0;0;0;0;0;41.915801;-3.75101
+cng;ES;Petroprix;Fuenlabrada;0;1;0;0;0;40.272013;-3.763932
+cng;ES;Carbugal;Fuenlabrada;0;1;0;0;0;40.2707;-3.748566
+cng;ES;Moeve;Getafe;0;0;0;0;0;40.296999;-3.691989
+cng;ES;Repsol;Gijón;0;0;0;0;0;43.522212;-5.68362
+cng;ES;Naturgy;Girona;0;1;0;0;0;41.964952;2.787987
+cng;ES;Petrol & Go;Granada;0;0;0;0;0;37.197507;-3.641126
+cng;ES;Primer;Granollers;0;1;0;0;0;41.605119;2.278716
+cng;ES;Alameda;Guadalajara;0;0;0;0;0;40.653443;-3.182599
+cng;ES;Naturgy;Guadalajara;0;1;0;0;0;40.655785;-3.185217
+cng;ES;Andamur;Guarromán;0;0;0;0;0;38.143355;-3.723469
+cng;ES;Repsol;Guarromán;0;0;0;0;0;38.193125;-3.672185
+cng;ES;Repsol;Hernani;0;0;0;0;0;43.278204;-1.978876
+cng;ES;Repsol;Hostalets de Llers;0;1;0;0;0;42.296092;2.940074
+cng;ES;Repsol;Igualada;0;0;0;0;0;41.595932;1.631788
+cng;ES;HAM;Irun;0;1;0;0;0;43.339113;-1.764255
+cng;ES;Repsol;Jerez de la Frontera;0;0;0;0;0;36.569658;-6.024704
+cng;ES;Naturgy;L'Hospitalet de Llobregat;0;1;0;0;0;41.348858;2.124805
+cng;ES;Alas;L'Hospitalet de l'Infant;0;0;0;0;0;41.007268;0.909081
+cng;ES;HAM;L'Hospitalet de l'Infant;0;1;0;0;1;40.986336;0.893602
+cng;ES;HAM;La Jonquera;0;0;0;0;0;42.410006;2.87631
+cng;ES;HAM;La Jonquera;0;1;0;0;1;42.405916;2.874854
+cng;ES;BP;Leganés;0;0;0;0;0;40.311367;-3.776397
+cng;ES;Incoenergy;Lleida;0;1;0;0;0;41.663993;0.606773
+cng;ES;Repsol;Logroño;0;0;0;0;0;42.45417;-2.466333
+cng;ES;Aliara Energia;Madrid;0;1;0;0;0;40.377501;-3.695846
+cng;ES;Aliara Energia;Madrid;0;1;0;0;0;40.373746;-3.717341
+cng;ES;Naturgy;Madrid;0;1;0;0;0;40.363861;-3.65621
+cng;ES;Shell;Madrid;0;0;0;0;0;40.369315;-3.644332
+cng;ES;BDMED;Madrid;0;1;0;0;0;40.355763;-3.669134
+cng;ES;Repsol;Madrid;0;0;0;0;0;40.372343;-3.638632
+cng;ES;Power3Oil;Madrid;0;0;0;0;0;40.387748;-3.623454
+cng;ES;Aliara Energia;Madrid;0;1;0;0;0;40.383123;-3.782688
+cng;ES;BP;Madrid;0;0;0;0;0;40.370291;-3.633466
+cng;ES;Moeve;Madrid;0;0;0;0;0;40.458409;-3.616166
+cng;ES;Naturgy;Madrid;0;1;0;0;0;40.336048;-3.717982
+cng;ES;Naturgy;Madrid;0;1;0;0;0;40.449229;-3.573232
+cng;ES;Naturgy;Madrid;0;1;0;0;0;40.398088;-3.58886
+cng;ES;Low Cost;Madrid;0;0;0;0;0;40.332044;-3.714111
+cng;ES;Aliara Energia;Madrid;0;1;0;0;0;40.512985;-3.669763
+cng;ES;BP;Madrid;0;0;0;0;0;40.562641;-3.710535
+cng;ES;Naturgy;Madrid;0;1;0;0;0;40.463708;-3.805041
+cng;ES;Naturgy;Mataró;0;0;0;0;0;41.527027;2.430978
+cng;ES;Galp;Maçanet de la Selva;0;0;0;0;0;41.780775;2.741109
+cng;ES;molgas;Monesterio;0;0;0;0;0;38.027954;-6.217944
+cng;ES;Naturgy;Motilla del Palancar;0;1;0;0;0;39.55351;-1.902823
+cng;ES;molgas;Murcia;0;0;0;0;0;37.769006;-1.068567
+cng;ES;Naturgy;Murcia;0;1;0;0;0;37.962298;-1.169752
+cng;ES;Naturgy;Murcia;0;1;0;0;0;38.08755;-1.21965
+cng;ES;HAM;Mérida;0;1;0;0;0;38.937786;-6.361787
+cng;ES;Petrol;Móstoles;0;0;0;0;0;40.317218;-3.847424
+cng;ES;Naturgy;Nanclares de la Oca;0;1;0;0;0;42.824359;-2.770626
+cng;ES;HAM;Noreña;0;1;0;0;0;43.389087;-5.720353
+cng;ES;Repsol;Oiartzun;0;0;0;0;0;43.312346;-1.879402
+cng;ES;Avia;Olaberria;0;0;0;0;0;43.03932;-2.2167
+cng;ES;BDMED;Onda;0;0;0;0;0;39.950978;-0.181953
+cng;ES;Endesa;Palma de Mallorca;0;1;1;1;0;39.564415;2.68792
+cng;ES;Naturgy;Parla;0;1;0;0;0;40.240431;-3.753646
+cng;ES;HAM;Pedreguer;0;1;0;0;0;38.792171;0.062705
+cng;ES;Moeve;Pinto;0;0;0;0;0;40.267086;-3.689573
+cng;ES;BP;Pinto;0;0;0;0;0;40.245172;-3.721193
+cng;ES;Moeve;Puerto Lumbreras;0;0;0;0;0;37.575701;-1.800546
+cng;ES;ALZ;Riba-roja de Túria;0;0;0;0;0;39.472642;-0.535587
+cng;ES;HAM;Riba-roja de Túria;0;0;0;0;0;39.481247;-0.566403
+cng;ES;Naturgy;Ribarroja;0;1;0;0;0;39.475798;-0.548118
+cng;ES;Repsol;Rivas-Vaciamadrid;0;0;0;0;0;40.354279;-3.549538
+cng;ES;HAM;Sagunto;0;0;0;0;1;39.649056;-0.301816
+cng;ES;Naturgy;Salamanca;0;1;0;0;0;40.937223;-5.654655
+cng;ES;HAM;Salamanca;0;0;0;0;0;40.959397;-5.727135
+cng;ES;molgas;San Fernando de Henares;0;0;0;0;0;40.4411;-3.50095
+cng;ES;Naturgy;San Isidro;0;1;0;0;0;38.169969;-0.852645
+cng;ES;Repsol;San Isidro;0;0;0;0;0;38.174955;-0.85418
+cng;ES;Galp;San Sebastián de los Reyes;0;0;0;0;0;40.608682;-3.579065
+cng;ES;Naturgy;Sanchinarro;0;1;0;0;0;40.484796;-3.645751
+cng;ES;Repsol;Sant Boi de Llobregat;0;1;0;0;0;41.326744;2.038519
+cng;ES;Beroil;Sant Joan de Vilatorrada;0;0;0;0;0;41.769816;1.788638
+cng;ES;HAM;Sant Sadurní d'Anoia;0;1;0;0;0;41.43546;1.77809
+cng;ES;HAM;Santa Cruz de Mudela;0;1;0;0;0;38.66262;-3.45687
+cng;ES;Petrem;Santa Llogaia d'Àlguema;0;0;0;0;0;42.230463;2.95634
+cng;ES;Naturgy;Santa Perpètua de Mogoda;0;1;0;0;0;41.53869;2.164025
+cng;ES;Repsol;Santander;0;0;0;0;0;43.442766;-3.877864
+cng;ES;Moeve;Santiago de Compostela;0;0;0;0;0;42.90982;-8.492578
+cng;ES;Staroil;Santiago de Compostela;0;0;0;0;0;42.918015;-8.526777
+cng;ES;AutoTaxi;Saragossa;0;0;0;0;0;41.634152;-0.922893
+cng;ES;Moeve;Saragossa;0;0;0;0;0;41.68239;-0.853515
+cng;ES;molgas;Saragossa;0;1;0;0;1;41.666941;-0.813687
+cng;ES;molgas;Saragossa;0;1;0;0;0;41.63844;-0.989595
+cng;ES;Repsol;Saragossa;0;0;0;0;1;41.625452;-1.010853
+cng;ES;HAM;Saragossa;0;1;0;0;0;41.604601;-0.689909
+cng;ES;Sym;Sarrià de Ter;0;0;0;0;0;42.009674;2.817427
+cng;ES;Repsol;Seseña;0;0;0;0;0;40.104793;-3.646514
+cng;ES;Repsol;Sestao;0;0;0;0;0;43.29844;-3.003203
+cng;ES;Naturgy;Sevilla;0;1;0;0;0;37.38741;-5.947829
+cng;ES;BIONET;Tarragona;0;0;0;0;0;41.138975;1.223117
+cng;ES;HAM;Tarragona;1;1;0;0;0;40.764342;0.628976
+cng;ES;HAM;Terrassa;0;1;0;0;0;41.557;2.03529
+cng;ES;Naturgy;Toledo;0;1;0;0;0;39.868954;-3.960662
+cng;ES;HAM;Torre-serona;0;0;0;0;0;41.665093;0.627946
+cng;ES;Petromiralles;Torremocha del Campo;0;0;0;0;0;40.97252;-2.61686
+cng;ES;Moeve;Trujillo;0;0;0;0;0;39.52612;-5.833281
+cng;ES;HAM;Valdemoro;0;1;1;0;0;40.167431;-3.665661
+cng;ES;SUR;Valencia;0;0;0;0;0;39.452611;-0.373261
+cng;ES;Taxco;Valencia;0;0;0;0;0;39.45794;-0.40927
+cng;ES;Scale Gas;Valls;0;1;0;0;0;41.310919;1.260934
+cng;ES;Primer;Vic;0;0;0;0;0;41.954958;2.280864
+cng;ES;Repsol;Vigo;0;0;0;0;0;42.228354;-8.753508
+cng;ES;Naturgy;Viladecans;0;1;0;0;0;41.318274;2.03574
+cng;ES;Moeve;Vilalba;0;0;1;0;0;43.335696;-7.554541
+cng;ES;HAM;Villarreal;0;0;0;0;0;39.949179;-0.166302
+cng;ES;Repsol;Vitoria-Gasteiz;0;0;0;0;0;42.857605;-2.721404
+cng;ES;Portuoil;Zierbena;0;0;0;0;0;43.350492;-3.073429
+cng;ES;Galp;Ziordia;0;0;0;0;0;42.864504;-2.235106
+cng;SE;Småländska Bränslen;Alvesta;1;1;0;0;0;56.913509;14.505336
+cng;SE;Circle K;Arlanda;0;0;0;0;0;59.647884;17.942336
+cng;SE;Gasum;Arlanda;1;1;0;0;0;59.647741;17.941722
+cng;SE;Bodens Kommun;Bodens Kommun;1;1;0;0;0;65.80258;21.67467
+cng;SE;Polargas;Boden;1;1;0;0;0;65.824514;21.668498
+cng;SE;Borlänge Energi;Borlänge Energi;1;1;0;0;0;60.484056;15.444149
+cng;SE;st1;Borås;1;1;0;0;0;57.722543;12.988583
+cng;SE;Circle K;Borås;1;1;0;0;0;57.715885;12.917635
+cng;SE;st1;Borås;1;1;0;0;0;57.710831;12.94638
+cng;SE;st1;Bro;0;1;0;0;0;59.541183;17.616914
+cng;SE;QStar;Brålanda;1;0;0;0;0;58.557262;12.35708
+cng;SE;Gasum;Bålsta;1;1;0;0;0;59.580747;17.492408
+cng;SE;st1;Båstad;0;1;0;0;0;56.426914;12.875626
+cng;SE;Hagelsrums Biogas;Eksjö;1;1;0;0;0;57.647348;14.950959
+cng;SE;Runes;Emmaboda;1;1;0;0;0;56.626189;15.552724
+cng;SE;OKQ8;Enköping;0;1;0;0;0;59.647608;17.083381
+cng;SE;EEM;Eskilstuna;0;1;0;0;0;59.387501;16.4783
+cng;SE;st1;Eslöv;0;1;0;0;0;55.822753;13.305297
+cng;SE;st1;Eslöv;0;0;0;0;0;55.827834;13.32192
+cng;SE;VafabMiljö;Fagersta;1;1;0;0;0;59.98425;15.802561
+cng;SE;st1;Falkenberg;0;1;0;0;0;56.934533;12.521321
+cng;SE;Polargas;Falun;1;1;0;0;0;60.603687;15.611176
+cng;SE;Flens Biogas;Flens Biogas;0;1;1;0;0;59.058966;16.619102
+cng;SE;Ekogas;Forsbacka;1;1;0;0;0;60.634353;16.881958
+cng;SE;Färgelanda Biogas;Färgelanda Biogas;1;0;0;0;0;58.56984;12.0
+cng;SE;st1;Gislaved;0;1;0;0;0;57.296547;13.575969
+cng;SE;st1;Gnosjö;0;1;0;0;0;57.35722;13.73881
+cng;SE;QStar;Grästorp;1;1;0;0;0;58.33358;12.67091
+cng;SE;Gasum;Gävle;1;1;0;0;0;60.626895;17.147945
+cng;SE;Ekogas;Gävle;1;1;0;0;0;60.659764;17.184226
+cng;SE;Gasefuels;Göteborg;1;1;0;0;0;57.641094;11.942281
+cng;SE;Gasum;Göteborg;1;1;0;0;0;57.796138;12.027846
+cng;SE;Gasefuels;Göteborg;1;1;0;0;0;57.733174;11.954393
+cng;SE;OKQ8;Göteborg;0;1;0;0;0;57.717246;11.981246
+cng;SE;OKQ8;Halmstad;0;0;0;0;0;56.674232;12.893053
+cng;SE;Biogas Gotland;Hemse;1;1;0;0;0;57.207447;18.352228
+cng;SE;OKQ8;Huddinge;0;0;0;0;0;59.2503;18.0096
+cng;SE;Hagelsrums Biogas;Hultsfred;1;1;0;0;0;57.499489;15.827712
+cng;SE;Härnösand Energi & Miljö;Härnösand Energi & Miljö;1;1;0;0;0;62.642934;17.907726
+cng;SE;st1;Hässleholm;0;1;0;0;0;56.17012;13.75962
+cng;SE;Hagelsrums Biogas;Högsby;1;1;0;0;0;57.173626;16.019401
+cng;SE;Tanka;Hörby;0;1;0;0;0;55.864598;13.66245
+cng;SE;st1;Höör;0;1;0;0;0;55.937206;13.554537
+cng;SE;Småländska Bränslen;Jönköping;1;1;0;0;0;57.780795;14.222446
+cng;SE;Småländska Bränslen;Jönköping;0;1;0;0;0;57.76929;14.171001
+cng;SE;Småländska Bränslen;Jönköping;1;1;0;0;0;57.690256;14.163923
+cng;SE;Oskarshamns energi;Kalmar;1;1;0;0;0;56.694884;16.329568
+cng;SE;st1;Kalmar;0;1;0;0;0;56.66909;16.33025
+cng;SE;st1;Karlshamn;0;1;0;0;0;56.19438;14.843786
+cng;SE;QStar;Karlskoga;1;0;0;0;0;59.330637;14.546472
+cng;SE;Karlskoga Energi;Karlskoga Energi;1;1;0;0;0;59.324241;14.443223
+cng;SE;Preem;Karlskrona;0;1;0;0;0;56.195812;15.638427
+cng;SE;OKQ8;Karlstad;1;0;0;0;0;59.38386;13.47961
+cng;SE;OKQ8;Karlstad;1;0;0;0;0;59.40137;13.53359
+cng;SE;Sörmland Vatten;Katrineholm;1;1;0;0;0;58.97815;16.24125
+cng;SE;Polargas;Kiruna;1;1;0;0;0;67.840827;20.335478
+cng;SE;st1;Kristianstad;0;1;0;0;0;56.041054;14.150888
+cng;SE;st1;Kristianstad;0;1;0;0;0;56.02361;14.1744
+cng;SE;Gasum;Kristinehamn;0;1;0;0;0;59.298664;14.130996
+cng;SE;Shell;Kumla;1;1;0;0;0;59.132335;15.119215
+cng;SE;VafabMiljö;Köping;1;1;0;0;0;59.499867;15.994717
+cng;SE;st1;Laholm;0;1;0;0;0;56.50179;13.00244
+cng;SE;st1;Landskrona;0;1;0;0;0;55.87237;12.84928
+cng;SE;OKQ8;Landvetter;0;0;0;0;0;57.679691;12.311172
+cng;SE;QStar;Lilla Edet;1;1;0;0;0;58.126099;12.1361
+cng;SE;Svensk Biogas;Linköping;1;1;0;0;0;58.40689;15.57873
+cng;SE;Svensk Biogas;Linköping;1;1;0;0;0;58.401402;15.6531
+cng;SE;Svensk Biogas;Linköping;1;1;0;0;0;58.425254;15.664403
+cng;SE;Svensk Biogas;Linköping;1;1;0;0;0;58.424135;15.638841
+cng;SE;Småländska Bränslen;Ljungby;1;1;0;0;0;56.853085;13.957053
+cng;SE;Småland Fuels;Ljungby;0;1;0;0;0;56.82782;13.92649
+cng;SE;Gasum;Luleå;1;1;0;0;0;65.623217;22.040744
+cng;SE;Polargas;Luleå;1;1;0;0;0;65.605587;22.047126
+cng;SE;OKQ8;Luleå;1;1;0;0;0;65.614394;22.10341
+cng;SE;Kraftringen;Lund;0;1;0;0;0;55.7192;13.1556
+cng;SE;Kraftringen;Lund;0;1;0;0;0;55.68908;13.22075
+cng;SE;More Biogas;Läckeby;1;1;0;0;0;56.760925;16.305805
+cng;SE;Biogas Gotland;Lärbro;1;1;0;0;0;57.783828;18.788203
+cng;SE;Vessige Biogas;Långås;1;1;0;0;0;56.99175;12.506994
+cng;SE;st1;Malmö;0;1;0;0;0;55.629166;13.045109
+cng;SE;st1;Malmö;0;1;0;0;0;55.5994;13.02386
+cng;SE;OKQ8;Malmö;0;0;0;0;0;55.5951;13.10028
+cng;SE;st1;Malmö;0;1;0;0;0;55.57725;13.02534
+cng;SE;st1;Malmö;0;1;0;0;0;55.58;12.97524
+cng;SE;st1;Malmö;0;1;0;0;0;55.563629;13.007723
+cng;SE;Småland Fuels;Markaryd;1;1;0;0;0;56.444239;13.603551
+cng;SE;QStar;Mellerud;1;1;0;0;0;58.707153;12.452958
+cng;SE;Listermacken;Mjällby;1;0;0;0;0;56.044451;14.668702
+cng;SE;Svensk Biogas;Mjölby;1;1;0;0;0;58.319032;15.099641
+cng;SE;Svensk Biogas;Motala;1;1;1;0;0;58.569044;15.091663
+cng;SE;Svensk Biogas;Motala;1;1;0;0;0;58.540703;15.007643
+cng;SE;Hagelsrums Biogas;Målilla;1;1;0;0;0;57.388465;15.805846
+cng;SE;OKQ8;Mölndal;0;1;0;0;0;57.671757;12.009338
+cng;SE;Oskarshamns energi;Mönsterås;1;1;0;0;0;57.020224;16.425663
+cng;SE;Mekka;Mörbylånga;0;1;0;0;0;56.508732;16.389276
+cng;SE;Svensk Biogas;Norrköping;1;1;0;0;0;58.6206;16.22498
+cng;SE;Svensk Biogas;Norrköping;1;1;0;0;0;58.585387;16.210169
+cng;SE;OKQ8;Norrtälje;0;1;0;0;0;59.748018;18.687763
+cng;SE;Polargas;Nybro;1;1;0;0;0;56.741246;15.891375
+cng;SE;st1;Olofström;0;1;0;0;0;56.276031;14.543545
+cng;SE;OKQ8;Oskarshamn;0;1;0;0;0;57.251386;16.444462
+cng;SE;OKQ8;Piteå;1;1;0;0;0;65.318846;21.435232
+cng;SE;OKQ8;Ronneby;0;1;0;0;0;56.232196;15.258216
+cng;SE;VafabMiljö;Sala;1;1;0;0;0;59.931312;16.596527
+cng;SE;Skellefteå kommun;Skellefteå kommun;1;1;0;0;0;64.752998;20.96839
+cng;SE;Skelleftebränslen;Skellefteå;1;1;0;0;0;64.732376;20.974442
+cng;SE;Gasum;Skövde;1;1;0;0;0;58.39297;13.888026
+cng;SE;Småland Fuels;Smålandsstenar;1;1;0;0;0;57.1643;13.44132
+cng;SE;Circle K;Stockholm;1;0;0;0;0;59.513869;17.919685
+cng;SE;Preem;Stockholm;1;1;0;0;0;59.475122;18.008543
+cng;SE;Circle K;Stockholm;1;0;0;0;0;59.447971;18.087068
+cng;SE;OKQ8;Stockholm;0;0;0;0;0;59.250898;17.864109
+cng;SE;OKQ8;Stockholm;0;0;0;0;0;59.450421;17.833127
+cng;SE;Gasum;Stockholm;1;1;0;0;0;59.445554;17.80798
+cng;SE;Circle K;Stockholm;1;0;0;0;0;59.4067;17.8428
+cng;SE;OKQ8;Stockholm;0;1;0;0;0;59.385246;17.936541
+cng;SE;OKQ8;Stockholm;0;1;0;0;0;59.445931;17.942578
+cng;SE;OKQ8;Stockholm;0;1;0;0;0;59.39952;18.03615
+cng;SE;OKQ8;Stockholm;0;0;0;0;0;59.355225;17.976135
+cng;SE;Circle K;Stockholm;1;1;0;0;0;59.337762;17.934343
+cng;SE;Circle K;Stockholm;1;0;0;0;0;59.360973;18.057639
+cng;SE;OKQ8;Stockholm;0;0;0;0;0;59.2957;18.03462
+cng;SE;Preem;Stockholm;1;1;0;0;0;59.262141;18.062764
+cng;SE;OKQ8;Stockholm;0;0;0;0;0;59.178281;18.144987
+cng;SE;st1;Strängnäs;0;0;0;0;0;59.352228;17.03196
+cng;SE;Biogas;Strömstad;1;1;0;0;0;58.930675;11.189042
+cng;SE;Circle K;Sundsvall;1;0;0;0;0;62.413359;17.34817
+cng;SE;OKQ8;Svedala;0;1;0;0;0;55.515494;13.234426
+cng;SE;Polargas;Säter;1;1;0;0;0;60.338038;15.776822
+cng;SE;Gasum;Södertälje;0;1;0;0;0;59.158346;17.640799
+cng;SE;OKQ8;Södertälje;0;0;0;0;0;59.178633;17.615329
+cng;SE;Preem;Södertälje;1;1;0;0;0;59.200604;17.661509
+cng;SE;Polargas;Söderåkra;0;1;0;0;0;56.451035;16.070814
+cng;SE;Blekinge Bränslen;Sölvesborg;1;1;0;0;0;56.060992;14.563889
+cng;SE;Småland Fuels;Tingsryd;0;1;0;0;0;56.533968;14.957828
+cng;SE;Småland Fuels;Tranås;1;1;0;0;0;58.044062;14.973014
+cng;SE;st1;Trelleborg;0;1;0;0;0;55.381513;13.149966
+cng;SE;Trollhättan Energi;Trollhättan Energi;1;1;0;0;0;58.28429;12.30236
+cng;SE;Tanka;Tumba;0;1;0;0;0;59.213831;17.828613
+cng;SE;st1;Ullared;0;1;0;0;0;57.127001;12.7144
+cng;SE;Gasum;Umeå;1;1;0;0;0;63.854386;20.349981
+cng;SE;OKQ8;Uppsala;1;0;0;0;0;59.844396;17.730875
+cng;SE;IDS;Uppsala;1;1;0;0;0;59.844222;17.728983
+cng;SE;Uppsala Vatten;Uppsala Vatten;1;1;0;0;0;59.874619;17.598817
+cng;SE;Ekogas;Uppsala;1;1;0;0;0;59.840161;17.669826
+cng;SE;Hagelsrums Biogas;Vimmerby;1;1;0;0;0;57.659517;15.87239
+cng;SE;Biogas Gotland;Visby;1;1;0;0;0;57.625665;18.274082
+cng;SE;Biogas Gotland;Visby;1;1;0;0;0;57.640178;18.334684
+cng;SE;Såifa;Vänersborg;0;1;0;0;0;58.339325;12.238765
+cng;SE;Gasum;Vänersborg;1;0;0;0;0;58.34642;12.256558
+cng;SE;Småland Fuels;Värnamo;1;1;0;0;0;57.20614;14.02999
+cng;SE;OKQ8;Värnamo;0;1;0;0;0;57.16301;14.07356
+cng;SE;Svensk Biogas;Västervik;1;1;0;0;0;57.767626;16.600701
+cng;SE;VafabMiljö;Västerås;1;1;0;0;0;59.656031;16.57523
+cng;SE;VafabMiljö;Västerås;1;1;0;0;0;59.611984;16.569223
+cng;SE;VafabMiljö;Västerås;1;1;0;0;0;59.594552;16.491411
+cng;SE;OKQ8;Västra Frölunda;0;0;0;0;0;57.660022;11.89102
+cng;SE;Småländska Bränslen;Växjö;0;1;0;0;0;56.88165;14.75951
+cng;SE;Småländska Bränslen;Växjö;1;1;0;0;0;56.886701;14.761394
+cng;SE;Småländska Bränslen;Växjö;1;1;0;0;0;56.86118;14.8531
+cng;SE;st1;Ystad;0;1;0;0;0;55.44538;13.83935
+cng;SE;OKQ8;Älmhult;0;1;0;0;0;56.532371;14.141933
+cng;SE;QStar;Ängelholm;0;1;0;0;0;56.253101;12.9094
+cng;SE;OKQ8;Åhus;0;0;0;0;0;55.93178;14.29171
+cng;SE;Circle K;Örebro;1;1;0;0;0;59.237808;15.123152
+cng;SE;Gasum;Örebro;1;1;0;0;0;59.237681;15.131449
+cng;SE;Gasum;Örebro;1;1;0;0;0;59.26244;15.19392
+cng;SE;Tanka;Örebro;1;1;0;0;0;59.29787;15.22989
+cng;SE;Gasum;Östersund;1;1;0;0;0;63.16189;14.74424
+cng;SE;Vatten Östersund;Vatten Östersund;1;1;0;0;0;63.195384;14.637225
+cng;DK;Shell;Fredericia;1;1;0;0;0;55.54411;9.638752
+cng;DK;Shell;Fredericia;1;1;0;0;0;55.56735;9.71376
+cng;DK;Shell;Frederikssund;1;1;0;0;0;55.823663;12.093855
+cng;DK;Shell;Gladsaxe;1;1;0;0;0;55.737652;12.478251
+cng;DK;Bioman;Horsens;1;1;1;0;0;55.919904;9.809782
+cng;DK;OK;Kopenhagen;1;1;0;0;0;55.669922;12.622639
+cng;DK;Bioman;Køge;1;1;1;0;0;55.491838;12.163617
+cng;DK;Shell;Odense;1;1;0;0;0;55.375647;10.439082
+cng;DK;Shell;Silkeborg;1;1;0;0;0;56.188461;9.552532
+cng;DK;OK;Skovlunde;1;1;0;0;0;55.713494;12.419044
+cng;DK;OK;Sonderburg;1;1;0;0;0;54.925253;9.725762
+cng;DK;Shell;Tårnby;1;1;0;0;0;55.629049;12.627782
+cng;DK;Shell;Vejle;1;1;0;0;0;55.746181;9.600181
+cng;NO;Gasum;Finstadjordet;1;1;0;0;0;59.907181;10.976927
+cng;NO;Gasum;Furnes;1;1;0;0;0;60.841375;11.084109
+cng;NO;Gasum;Gamle Fredrikstad;1;1;0;0;0;59.208306;10.967351
+cng;NO;Gasum;Halden;1;1;0;0;0;59.132618;11.279908
+cng;NO;redo;Halden;1;1;0;0;0;59.132356;11.270868
+cng;NO;redo;Horten;1;1;0;0;0;59.392563;10.473336
+cng;NO;Gasum;Hunndalen;1;1;0;0;0;60.765425;10.642366
+cng;NO;redo;Jessheim;1;1;0;0;0;60.178793;11.146167
+cng;NO;Gasum;Mogreina;1;1;0;0;0;60.233151;11.194642
+cng;NO;Gasum;Moss;1;1;0;0;0;59.443893;10.706987
+cng;NO;Gasnor;Orkanger;0;1;1;0;0;63.306773;9.833358
+cng;NO;Gasum;Oslo;1;1;0;0;0;59.936397;10.872317
+cng;NO;Gasum;Oslo;1;1;0;0;0;59.929483;10.862421
+cng;NO;Gasum;Oslo;1;1;0;0;0;59.927633;10.852181
+cng;NO;Gasum;Oslo;1;1;0;0;0;59.895774;10.800862
+cng;NO;Gasum;Sarpsborg;1;1;0;0;0;59.264707;11.12876
+cng;NO;Gasum;Skedsmokorset;1;1;0;0;0;60.007628;11.066796
+cng;NO;Gasum;Ski;1;1;0;0;0;59.711267;10.848975
+cng;NO;molgas;Stjørdal;1;1;0;0;0;63.478035;10.893587
+cng;NO;redo;Stokke;1;1;0;0;0;59.251472;10.260682
+cng;NO;Gildset;Støren;1;1;0;0;0;63.028776;10.264408
+cng;NO;Gasum;Tiller;1;1;0;0;0;63.341802;10.372375
+cng;NO;redo;Tonsberg;1;1;0;0;0;59.278919;10.431622
+cng;NO;redo;Tonsberg;1;1;0;0;0;59.297239;10.297031
+cng;NO;molgas;Verdal;0;1;1;0;0;63.782072;11.452406
+cng;FI;Jeppo;Isokyrö;1;0;0;0;0;62.983393;22.351127
+cng;FI;Jeppo;Jakobstad;1;1;0;0;0;63.661916;22.763545
+cng;FI;Gasum;Keminmaa;1;1;0;0;0;65.805438;24.499364
+cng;FI;BIG;Korsholm;1;1;0;0;0;63.136094;21.758505
+cng;FI;DEMECA g'fuel;Muhos;1;0;1;1;0;64.886372;25.820832
+cng;FI;Jeppo;Nykarleby;1;1;0;0;0;63.414653;22.603724
+cng;FI;Gasum;Oulu;1;1;0;0;0;64.998742;25.459357
+cng;FI;Ruskon Biokaasu;Oulu;1;1;0;0;0;65.056859;25.537073
+cng;FI;SEO;Oulu;1;0;0;0;0;64.959045;25.527674
+cng;FI;BIG;Pedersöre;1;1;0;0;0;63.633659;22.853508
+cng;FI;Envor Biotech;Pori;1;1;0;0;0;61.511683;21.77382
+cng;FI;Gasum;Pori;1;1;0;0;0;61.477341;21.780479
+cng;FI;wekas;Ranua;0;1;0;0;0;65.908499;26.51968
+cng;FI;Gasum;Rovaniemi;1;1;0;0;0;66.485948;25.627906
+cng;FI;Gasum;Seinäjoki;1;1;0;0;0;62.764667;22.927667
+cng;FI;BIG;Vaasa;1;1;0;0;0;63.052036;21.71773
+cng;FI;Vörå Biogas;Vörå Biogas;1;0;0;0;0;63.130349;22.224776
+cng;AT;eni;Altach;0;0;0;0;0;47.352989;9.63485
+cng;AT;OMV;Braunau;0;0;0;0;0;48.246766;13.040138
+cng;AT;Agip/eni;Brixlegg;0;0;0;0;0;47.43244;11.87881
+cng;AT;eni;Dornbirn;0;0;0;0;0;47.42992;9.73997
+cng;AT;RAG;Gampern;0;1;0;1;0;48.01639;13.57391
+cng;AT;Agip/eni;Hard;0;0;0;0;0;47.48917;9.70337
+cng;AT;eni;Innsbruck;0;0;0;0;0;47.2625;11.372778
+cng;AT;Agip/eni;Innsbruck;0;0;0;0;0;47.2635;11.433205
+cng;AT;Agip/eni;Kematen;0;0;0;0;0;47.261669;11.26425
+cng;AT;OMV;Laakirchen;0;0;0;0;1;48.00474;13.85355
+cng;AT;eni;Mieders;0;0;0;0;0;47.159875;11.367928
+cng;AT;Agip/eni;Mils;0;0;0;0;0;47.281191;11.533906
+cng;AT;Thrainer;Niederndorf;0;0;0;0;0;47.648821;12.197063
+cng;AT;BP;Oberndorf;0;0;0;0;0;47.934101;12.94657
+cng;AT;eni;Oberndorf;0;0;0;0;0;47.496261;12.388622
+cng;AT;eni;Puch;0;0;0;0;0;47.732224;13.086237
+cng;AT;eni;Rankweil;0;0;0;0;0;47.272126;9.618318
+cng;AT;Agip/eni;Reutte;0;0;0;0;0;47.480227;10.735376
+cng;AT;Avia;Ried;0;0;0;0;0;48.212176;13.482715
+cng;AT;Agip/eni;Sankt Johann;0;0;0;0;0;47.526884;12.424263
+cng;AT;eni;Schwarzach;1;0;0;0;0;47.438769;9.759353
+cng;AT;Lagerhaus;Straßwalchen;1;0;0;0;0;47.956714;13.234728
+cng;AT;Freie;Telfs;0;0;0;0;0;47.314049;11.100153
+cng;AT;Shell;Vils;0;0;0;0;0;47.550226;10.657547
+cng;AT;Agip/eni;Wörgl;0;0;0;0;0;47.482738;12.05854
+cng;AT;Agip/eni;Ötztal - Bahnhof;0;0;0;0;0;47.231729;10.853174
+cng;CH;BP;Aarau;1;0;0;0;0;47.3995;8.06575
+cng;CH;Agrola;Aesch;0;0;0;0;0;47.47945;7.590425
+cng;CH;TAMOIL;Aigle;0;0;0;0;0;46.32417;6.96397
+cng;CH;Agrola;Altstätten;0;0;0;0;0;47.36333;9.555881
+cng;CH;GVM AG;Arlesheim;0;1;0;0;0;47.49701;7.60925
+cng;CH;Agip/eni;Au;0;0;0;0;0;47.43075;9.63636
+cng;CH;Energie 360°;Bachenbülach;0;0;0;0;0;47.501499;8.535816
+cng;CH;Regionalwerke;Baden;0;1;0;0;0;47.483739;8.297755
+cng;CH;Shell;Baden;0;0;0;0;0;47.456372;8.282714
+cng;CH;BP;Basel;0;0;0;0;0;47.5367;7.60665
+cng;CH;Agrola;Bubendorf;0;0;0;0;0;47.456379;7.743965
+cng;CH;Socar;Buchs;1;1;0;0;0;47.392708;8.066764
+cng;CH;Shell;Carouge;0;0;0;0;0;46.18968;6.13196
+cng;CH;Agip/eni;Chambésy;0;0;0;0;0;46.23741;6.14833
+cng;CH;Shell;Châtelaine;0;0;0;0;0;46.20646;6.10946
+cng;CH;TAMOIL;Clarens;0;0;0;0;0;46.441001;6.89098
+cng;CH;BP;Collonge-Bellerive;0;0;0;0;0;46.24842;6.217591
+cng;CH;Socar;Cossonay;0;1;0;0;0;46.618527;6.508812
+cng;CH;Agrola;Delsberg;0;0;0;0;0;47.3625;7.35998
+cng;CH;Agrola;Diessenhofen;0;0;0;0;0;47.68117;8.75005
+cng;CH;TAMOIL;Echallens;0;0;0;0;0;46.64633;6.63763
+cng;CH;Avia;Forel;0;1;0;0;0;46.552717;6.777197
+cng;CH;BP;Frauenfeld;0;0;0;0;0;47.56389;8.875001
+cng;CH;Agrola;Grenchen;0;0;0;0;0;47.187672;7.410717
+cng;CH;Säntis Energie;Herisau;0;1;0;0;0;47.381117;9.277393
+cng;CH;BP;Kloten;0;0;0;0;0;47.45502;8.58005
+cng;CH;Erdgas AG Thierstein;Laufen;0;1;0;0;0;47.42554;7.509552
+cng;CH;BP;Lausanne;0;1;0;0;0;46.54181;6.61831
+cng;CH;eni;Lausanne;0;0;0;0;0;46.51631;6.60565
+cng;CH;Agrola;Lenzburg;0;1;0;0;0;47.39249;8.18016
+cng;CH;Holdinova;Lucens;0;0;1;1;0;46.70863;6.84632
+cng;CH;BP;Lyss;0;0;0;0;0;47.08214;7.29648
+cng;CH;BP;Meyrin;0;0;0;0;0;46.22329;6.068597
+cng;CH;BP;Oberbüren;0;0;0;0;0;47.451508;9.155404
+cng;CH;Avia;Oberwil;0;1;0;0;0;47.50864;7.55475
+cng;CH;Ruedi Rüssel;Oeschgen;0;0;0;0;0;47.514319;8.014935
+cng;CH;Agrola;Orbe;0;0;0;0;0;46.72076;6.541194
+cng;CH;Coop;Payerne;0;0;0;0;0;46.825557;6.924428
+cng;CH;BP;Perly;0;0;0;0;0;46.156822;6.096041
+cng;CH;BP;Pratteln;0;0;0;0;1;47.52787;7.7001
+cng;CH;BP;Pratteln;0;0;0;0;1;47.52692;7.70148
+cng;CH;Avia;Puidoux;0;0;0;0;0;46.49167;6.76941
+cng;CH;Agrola;Regensdorf;0;0;0;0;0;47.446172;8.463346
+cng;CH;Avia;Rümlang;0;0;0;0;0;47.450515;8.538802
+cng;CH;Agrola;Saint-Maurice;0;0;0;0;0;46.207128;7.007523
+cng;CH;BP;Sankt Gallen;0;0;0;0;0;47.40733;9.30257
+cng;CH;BP;Sankt Gallen;0;0;0;0;0;47.44027;9.40998
+cng;CH;Agrola;Schaffhausen;0;0;0;0;0;47.71794;8.66169
+cng;CH;Avia;Signy;0;0;0;0;0;46.399368;6.20499
+cng;CH;Agrola;Sulgen;0;0;0;0;0;47.545352;9.180888
+cng;CH;Müller Energie;Thayngen;1;0;1;1;0;47.751285;8.693499
+cng;CH;eni;Uster;0;0;0;0;0;47.3575;8.72833
+cng;CH;Holdinova;Vevey;0;0;0;0;0;46.46483;6.83989
+cng;CH;Benzin Discount;Villmergen;0;1;0;0;0;47.35269;8.25396
+cng;CH;Avia;Volketswil;0;0;0;0;0;47.3938;8.6575
+cng;CH;Holdinova;Vufflens-la-Ville;0;1;1;0;0;46.569838;6.526889
+cng;CH;eni;Weinfelden;0;1;0;0;0;47.56432;9.09989
+cng;CH;BP;Wil;0;0;0;0;0;47.457844;9.0462
+cng;CH;Migrol;Windisch;0;1;0;0;0;47.48274;8.21305
+cng;CH;Stadtwerk Winterthur;Stadtwerk Winterthur;0;1;0;0;0;47.49672;8.75174
+cng;CH;Cosvegaz;Yens;0;1;0;0;0;46.51898;6.4287
+cng;CH;BP;Yverdon-les-Bains;0;0;0;0;0;46.76608;6.65065
+cng;CH;Regio Energie;Zuchwil;0;1;0;0;0;47.20757;7.55173
+cng;IT;Esso;Alpignano;0;0;0;0;0;45.119155;7.505989
+cng;IT;Conad;Avigliana;0;0;0;0;0;45.086893;7.408529
+cng;IT;Blu;Beinasco;0;0;0;0;0;45.028697;7.583137
+cng;IT;Agip/eni;Borgone Susa;0;0;0;0;0;45.124282;7.229749
+cng;IT;Agip/eni;Busano;0;0;0;0;0;45.321974;7.659679
+cng;IT;Metano;Cairo Montenotte;0;0;0;0;0;44.40187;8.288152
+cng;IT;Sia;Carru;0;0;0;0;0;44.484015;7.891867
+cng;IT;Bragas;Cherasco;0;0;0;0;0;44.645743;7.866497
+cng;IT;Metano;Ciriè;0;0;0;0;0;45.233412;7.588457
+cng;IT;eni;Cuneo;0;0;0;0;0;44.412545;7.552617
+cng;IT;LCO;Frossasco;0;0;0;0;0;44.918103;7.364566
+cng;IT;eni;Imperia;0;0;0;0;0;43.921189;8.024949
+cng;IT;Me-Tra;Millesimo;0;0;0;0;0;44.368894;8.200842
+cng;IT;TAMOIL;Mondovi;0;0;0;0;0;44.362348;7.833669
+cng;IT;LCO;Osasco;0;0;0;0;0;44.855965;7.335968
+cng;IT;enercoop;Pinerolo;0;0;0;0;0;44.88534;7.3535
+cng;IT;TAMOIL;Pinerolo;0;0;0;0;0;44.877221;7.353196
+cng;IT;Agip/eni;Pinerolo;0;0;0;0;0;44.889112;7.357041
+cng;IT;TAMOIL;Pollein;0;0;0;0;0;45.735062;7.368584
+cng;IT;Q8;Rivoli;0;0;0;0;0;45.081562;7.497939
+cng;IT;Q8;Rivoli;0;0;0;0;0;45.048091;7.563753
+cng;IT;Costantin;Robassomero;0;0;0;0;0;45.213768;7.543197
+cng;IT;BiFuel;Vado Ligure;0;0;0;0;0;44.268886;8.426542
+cng;IT;TAMOIL;Vigone;0;0;0;0;0;44.84747;7.507248
+cng;IT;eni;Villafalletto;0;0;0;0;0;44.55502;7.541561
+cng;CZ;Eutit;Altwasser;0;1;0;0;0;49.993063;12.604916
+cng;CZ;Předlice;Aussig;0;0;1;0;0;50.657829;13.997607
+cng;CZ;Orlen;Aussig;0;0;0;0;0;50.657353;13.998493
+cng;CZ;innogy;Aussig;0;1;0;0;0;50.660301;14.0036
+cng;CZ;Orogas;Aussig;0;0;0;0;0;50.665832;14.065742
+cng;CZ;E.ON;Brüx;0;1;0;0;0;50.485391;13.650484
+cng;CZ;SEFE Mobility;Brüx;0;1;0;0;0;50.483581;13.643338
+cng;CZ;DPMCB;Budweis;0;1;0;0;0;48.961852;14.488179
+cng;CZ;E.ON;Budweis;0;1;0;0;0;48.975623;14.491109
+cng;CZ;Orlen;Budweis;0;0;0;0;0;48.98948;14.459327
+cng;CZ;MOL;Budweis;0;0;0;0;0;48.992431;14.470075
+cng;CZ;Tomegas;Budweis;0;0;0;0;0;48.994659;14.466546
+cng;CZ;Jihotrans;Budweis;0;0;0;0;0;49.001373;14.484074
+cng;CZ;Bonett;Chodau;0;1;0;0;0;50.239829;12.756731
+cng;CZ;innogy;Eger;0;1;0;0;0;50.081248;12.376672
+cng;CZ;SCHNELL;Eger;0;1;0;0;0;50.085896;12.403519
+cng;CZ;Orlen;Eichwald;0;0;0;0;0;50.654859;13.806867
+cng;CZ;E.ON;Eipel;0;1;1;0;0;50.505282;16.026436
+cng;CZ;E.ON;Freiheit;0;1;1;0;0;50.619917;15.820894
+cng;CZ;EuroOil;Habendorf;0;0;0;0;0;50.784111;15.022839
+cng;CZ;Esotank;Haid;0;0;0;0;0;49.748475;12.777139
+cng;CZ;Kontakt;Hohenelbe;0;0;0;0;0;50.619625;15.619599
+cng;CZ;Orlen;Hohenelbe;0;0;0;0;0;50.620163;15.598669
+cng;CZ;CEPOX;Horschitz;0;0;0;0;0;50.367089;15.621965
+cng;CZ;PROTON PLAST;Hruschowan;0;1;0;0;0;50.391781;13.531111
+cng;CZ;Bonett;Janessen;0;1;0;0;0;50.217752;12.801888
+cng;CZ;Orlen;Jermer;0;0;0;0;0;50.342841;15.904465
+cng;CZ;innogy;Karlsbad;0;1;0;0;0;50.228424;12.831843
+cng;CZ;innogy;Karlsbad;0;1;1;1;0;50.240299;12.8961
+cng;CZ;Bonett;Klattau;0;0;0;0;0;49.404456;13.27672
+cng;CZ;Orlen;Klattau;0;0;0;0;0;49.40841;13.293625
+cng;CZ;DP;Komotau;0;1;0;0;0;50.48285;13.440599
+cng;CZ;E.ON;Krumau;0;1;0;0;0;48.818049;14.305048
+cng;CZ;SEFE Mobility;Königgrätz;0;0;0;0;0;50.223982;15.876086
+cng;CZ;Bonett;Königgrätz;0;1;0;0;0;50.228676;15.861925
+cng;CZ;Bonett;Königgrätz;0;1;0;0;0;50.225888;15.79844
+cng;CZ;innogy;Laun;0;0;0;0;0;50.355434;13.779678
+cng;CZ;innogy;Leipa;0;0;0;0;0;50.677476;14.536419
+cng;CZ;EuroOil;Leitmeritz;0;0;0;0;0;50.531584;14.111012
+cng;CZ;E.ON;Lobositz;0;1;0;0;0;50.504613;14.051678
+cng;CZ;Bonett;Nachod;0;0;0;0;0;50.418815;16.171444
+cng;CZ;E.ON;Neuhaus;0;1;0;0;0;49.159619;15.022694
+cng;CZ;Orlen;Oberleutensdorf;0;0;0;0;0;50.557187;13.601549
+cng;CZ;E.ON;Prachatitz;0;1;0;0;0;49.045001;14.021682
+cng;CZ;E.ON;Písek;0;1;0;0;0;49.304334;14.134334
+cng;CZ;E.ON;Písek;0;1;1;0;0;49.31896;14.161986
+cng;CZ;E.ON;Strakonitz;0;1;0;0;0;49.269582;13.921674
+cng;CZ;Orlen;Taus;0;0;0;0;0;49.437078;12.911869
+cng;CZ;E.ON;Teplitz;0;1;0;0;0;50.6519;13.8341
+cng;CZ;DPMD;Tetschen;0;0;0;0;0;50.764541;14.192236
+cng;CZ;innogy;Theresienstadt;0;1;0;0;0;50.508255;14.146825
+cng;CZ;Orlen;Trautenau;0;0;0;0;0;50.571942;15.89419
+cng;CZ;Idefa;Winterschan;0;1;0;0;0;50.627496;13.857379
+cng;CZ;Orlen;Wittingau;0;0;0;0;0;49.012106;14.788242
+cng;CZ;EuroOil;Zwodau;0;0;0;0;0;50.188841;12.635156
+cng;CZ;Vendys;Častolovice;0;0;0;0;0;50.716568;14.544705
+cng;PT;Galp;Aveiras de Cima;0;1;0;0;0;39.169654;-8.924976
+cng;PT;Galp;Azambuja;0;0;0;0;0;39.05921;-8.890388
+cng;PT;tcb;Barreiro;0;0;1;1;0;38.663029;-9.059617
+cng;PT;Galp;Batalha;0;1;0;0;0;39.668466;-8.833437
+cng;PT;Transportes Urbanos;Braga;0;0;1;1;0;41.539976;-8.43556
+cng;PT;Dourogás;Carregado;0;1;0;0;0;39.033741;-8.978937
+cng;PT;Dourogás;Elvas;0;1;0;0;1;38.884288;-7.050281
+cng;PT;Dourogás;Escariz;0;1;1;0;0;41.352452;-7.720392
+cng;PT;Dourogás;Maia;0;1;0;0;1;41.237355;-8.654541
+cng;PT;Galp;Matosinhos;0;0;0;0;0;41.204337;-8.640295
+cng;PT;Dourogás;Mirandela;0;0;0;0;0;41.374749;-7.143051
+cng;PT;Dourogás;Palmela;0;0;0;0;0;38.578902;-9.002915
+cng;PT;Dourogás;Porto;0;0;0;0;0;41.182547;-8.618956
+cng;PT;Dourogás;Porto;0;1;0;0;0;41.170556;-8.641389
+cng;PT;Dourogás;Santa Maria da Feira;0;1;0;0;0;41.008225;-8.554455
+cng;PT;Dourogás;Vilar Formoso;0;0;0;0;1;40.606207;-6.951405
+cng;PL;PGNiG;Landsberg an der Warthe;0;0;0;0;0;52.741276;15.27074
+cng;PL;PGNiG;Stettin;0;0;0;0;0;53.402831;14.537062
+cng;PL;PGNiG;Waldenburg;0;0;0;1;0;50.784238;16.260612
+cng;GB;CNG Fuels;Avonmouth;1;1;1;0;0;51.541048;-2.645506
+cng;GB;CNG Fuels;Aylesford;1;0;1;0;0;51.303904;0.494798
+cng;GB;CNG Fuels;Bangor;1;1;1;0;0;53.211776;-4.106658
+cng;GB;CNG Fuels;Castleford;1;1;1;0;0;53.71659;-1.398267
+cng;GB;CNG Fuels;Corby;1;1;0;0;0;52.50173;-0.674023
+cng;GB;CNG Fuels;Crewe;1;1;1;0;0;53.085153;-2.428142
+cng;GB;CNG Fuels;Doncaster;1;1;1;0;0;53.501762;-1.122829
+cng;IE;Circle K;Dublin;1;0;0;0;0;53.41281;-6.216315
+cng;IE;Circle K;Dublin;1;0;0;0;0;53.353938;-6.213119
+cng;IE;Flogas;Dublin;0;1;0;0;0;53.441394;-6.282809
+cng;GB;CNG Fuels;Knowsley;1;1;1;0;0;53.461344;-2.869659
+cng;GB;CNG Fuels;Leyland;1;1;1;0;0;53.690314;-2.675937
+cng;GB;CNG Fuels;Livingston;1;1;0;0;0;55.903724;-3.574318
+cng;GB;CNG Fuels;Motherwell;1;1;1;0;0;55.828685;-3.988025
+cng;GB;CNG Fuels;Newark-on-Trent;1;0;1;0;0;53.08789;-0.783389
+cng;GB;CNG Fuels;Newton Aycliffe;1;1;1;0;0;54.584258;-1.564787
+cng;GB;CNG Fuels;Northampton;1;1;1;0;0;52.231911;-1.004123
+cng;GB;CNG Fuels;Warrington;1;1;1;0;0;53.413669;-2.662744
+cng;GB;Organic Power;Wincanton;1;0;1;1;0;51.024912;-2.396714

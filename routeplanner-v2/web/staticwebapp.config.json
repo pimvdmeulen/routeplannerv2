@@ -1,0 +1,12 @@
+{
+  "globalHeaders": {
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Permissions-Policy": "geolocation=(self)"
+  },
+  "mimeTypes": { ".otf": "font/otf" },
+  "routes": [
+    { "route": "/js/*", "headers": { "Cache-Control": "public, max-age=3600" } },
+    { "route": "/assets/*", "headers": { "Cache-Control": "public, max-age=604800" } }
+  ]
+}
